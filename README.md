@@ -28,6 +28,7 @@ Papers for myself to read
 - [Hugo Larochelle](http://www.dmi.usherb.ca/~larocheh/index_en.html)
 - [Samy Bengio](http://bengio.abracadoudou.com/)
 - [Aaron Courville](https://aaroncourville.wordpress.com/)
+- [Jimmy Ba](https://jimmylba.github.io/) 
 
 ## Self-Driving Cars
 - [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/)
@@ -71,7 +72,7 @@ Papers for myself to read
 
 ## Probabilistic Graphical Models
 - [Brendan Frey](http://www.psi.toronto.edu/~frey/)
-- [Alireza Makhzani](httphttps://scholar.google.com/citations?user=vtegaJgAAAAJ://www.alireza.ai/publications/)
+- [Alireza Makhzani](http://www.alireza.ai/)
 - [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
 ## Computer Vision
