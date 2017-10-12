@@ -25,6 +25,9 @@ Papers for myself to read
 - [Ruslan](http://www.cs.toronto.edu/~rsalakhu/publications.html)
 - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
 - [Alex Graves](https://www.cs.toronto.edu/~graves/)
+- [Hugo Larochelle](http://www.dmi.usherb.ca/~larocheh/index_en.html)
+- [Samy Bengio](http://bengio.abracadoudou.com/)
+- [Aaron Courville](https://aaroncourville.wordpress.com/)
 
 ## Self-Driving Cars
 - [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/)
@@ -62,6 +65,7 @@ Papers for myself to read
 
 ## Generative Models
 - [Ian Goodfellow](http://www.iangoodfellow.com/) 
+- [Leon Bottou](http://leon.bottou.org/)
 
 ## Probabilistic Graphical Models
 - [Brendan Frey](http://www.psi.toronto.edu/~frey/)
@@ -73,6 +77,7 @@ Papers for myself to read
 - [Antonio Torralba](http://web.mit.edu/torralba/)
 - [Aude Olivia](http://cvcl.mit.edu/Aude.htm) 
 - [Ali Farhadi](https://homes.cs.washington.edu/~ali/) 
+- [Rob Fergus](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php)
 - [Sanja Fidler](http://www.cs.utoronto.ca/~fidler/) 
 - [Fei Fei Li](http://vision.stanford.edu/feifeili/)
 - [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/)
