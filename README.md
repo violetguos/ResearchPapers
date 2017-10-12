@@ -114,6 +114,10 @@ Papers for myself to read
 - [Bayesian Learning for Neural Networks By Radford](http://www.cs.toronto.edu/~radford/ftp/thesis.pdf)
 - [Machine Learning for Aerial Image Labeling by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
 - [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
+- [Beyond Affinity Propagation: Message Passing Algorithms for Clustering by Inmar Givoni](http://www.psi.toronto.edu/publications/2011/Givoni_Inmar_E_201206_PhD_thesis.pdf)
+- [Learning Probabilistic Models for Visual Motion by David Ross](http://www.cs.toronto.edu/~dross/phd/Ross_David_A_200811_PhD_thesis.pdf)
+- [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
+- [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
 
 ## Surveys 
 
