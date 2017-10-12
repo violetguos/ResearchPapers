@@ -58,7 +58,9 @@ Papers for myself to read
 ## Gaussian Processes 
 - [Carl Edward Rasmussen](http://mlg.eng.cam.ac.uk/carl/)
 - [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/)
+- [Ryan Adams](http://people.seas.harvard.edu/~rpa/) 
 - [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/)
+- [David Duvenaud](https://www.cs.toronto.edu/~duvenaud/) 
 
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
@@ -85,9 +87,11 @@ Papers for myself to read
 ## Recommender Systems
 - [Craig Boutilier](http://www.cs.toronto.edu/~cebly/)
 - [Balazs Hidasi](http://www.hidasi.eu/en/index.html)
+- [Scott Sanner](http://d3m.mie.utoronto.ca/)
 
 ## Robotics
 - [Dieter Fox](http://homes.cs.washington.edu/~fox/)
+- [Rafaello DAndrea](http://raffaello.name/)
 - [Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)
 
 # Learning Resources
