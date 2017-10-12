@@ -1,11 +1,20 @@
 Papers for myself to read
+# Researchers
+Geoffrey Hinton
+Yann LeCunn
+Yoshua Bengio
+Percy Liang
 
-# Thesis
-
-# Surveys 
+# Learning Resources
+## Books
+## Tutorials 
+## Workshops
+## Video Lectures
+## Courses
+## Thesis
+## Surveys 
 
 # Papers 
-
 ## Deep Learning
 
 ### Fully-Connected Neural Networks
@@ -33,6 +42,10 @@ Papers for myself to read
 ### Image Segmentation
 
 ## Natural Language Processing
+
+### Word Representation 
+
+
 
 ### Question Answering
 
