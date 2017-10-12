@@ -1,0 +1,18 @@
+//----------------------------------------------------------------------------------------------------
+FORMAT
+TitleOfTopicThatThesePapersAreAbout
+- Title of Paper followed by link to paper https://arxiv.org/pdf/1407.2806v1.pdf 
+  - Motivation/Problem:
+    - The problem or motivation that the paper was written
+  - Contributions/Results (math proofs/experiments/newDataSet):
+    - Issues with matrix factorization with cold start. 
+    - What was contributed by this paper
+  - Future Direction/Drawbacks
+  - What are the future directions of this paper for the author
+  - Drawbacks of the paper
+  - (Optional) Related work information that may be useful
+  - (Optional) Datasets used so we know if we are able to use them
+  - (Optional) Anything else you want to add about the paper as summarize notes. 
+- Title of Next paper followed by link to that paper https://arxiv.org/pdf/1407.2806v1.pdf 
+
+//----------------------------------------------------------------------------------------------------
