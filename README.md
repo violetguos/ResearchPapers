@@ -95,13 +95,15 @@ Papers for myself to read
 - [Rafaello DAndrea](http://raffaello.name/)
 - [Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)
 
-# Learning Resources
-## Books
-## Tutorials 
-## Workshops
-## Video Lectures
-## Courses
-## Thesis
+# Video Lectures
+
+# Courses
+
+# Books
+
+# Tutorials/Conferences/Workshops
+
+# Thesis
 - [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
 - [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
 - [Deep Learning Representation and Its Application To Computer Vision by Ian Goodfellow](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/11674/Goodfellow_Ian_2014_these.pdf?sequence=4)
@@ -119,7 +121,11 @@ Papers for myself to read
 - [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
 - [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
 
-## Surveys 
+# Surveys 
+
+## Recommendation Systems
+- **Deep Learning based Recommender System: A Survey and New Perspectives** (2016), SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
+
 
 # Papers 
 ## Deep Learning
