@@ -5,7 +5,7 @@ Papers for myself to read
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-- [Recurrent Neural Networ](https://github.com/kjw0612/awesome-rnn)
+- [Recurrent Neural Network](https://github.com/kjw0612/awesome-rnn)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Math](https://github.com/rossant/awesome-math)
 - [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning)
@@ -15,36 +15,75 @@ Papers for myself to read
 - [Courses](https://github.com/prakhar1989/awesome-courses)
 
 # Researchers
+## Machine Learning
+- [Andrew Ng](http://www.andrewng.org/)
+
 ## Deep Learning
 - [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 - [Yann LeCunn](http://yann.lecun.com/)
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 - [Ruslan](http://www.cs.toronto.edu/~rsalakhu/publications.html)
 - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
-- [Ian Goodfellow](http://www.iangoodfellow.com/) 
+- [Alex Graves](https://www.cs.toronto.edu/~graves/)
 
 ## Self-Driving Cars
 - [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/)
+- [Sebastian Thrun](http://robots.stanford.edu/)
 
 ## Natural Language Processing
 - [Richard Socher](http://www.socher.org/)
 - [Percy Liang](https://cs.stanford.edu/~pliang/)
+- [Jason Weston](http://www.thespermwhale.com/jaseweston/)
+- [Tomas Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ)
+- [Kyunghyun Cho](http://www.kyunghyuncho.me/)
+- [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)
+- [Claire Cardie](http://www.cs.cornell.edu/home/cardie/) 
 
 ## Reinforcement Learning
+- [Richard Sutton](https://scholar.google.com/citations?user=hNTyptAAAAAJ) 
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
+- [Volodymyr Mnih](http://www.cs.toronto.edu/~vmnih/)
 
 ## Bayesian 
 - [Radford Neal](http://www.cs.toronto.edu/~radford/)
+- [Jeffrey Rosenthal](http://probability.ca/jeff/)
+- [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
+- [Max Welling](http://www.ics.uci.edu/~welling/)
+- [Durk Kingma](http://dpkingma.com/)
+
+## Gaussian Processes 
+- [Carl Edward Rasmussen](http://mlg.eng.cam.ac.uk/carl/)
+- [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/)
+- [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/)
+
+## Support Vector Machines
+- [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
 
 ## Generative Models
+- [Ian Goodfellow](http://www.iangoodfellow.com/) 
 
 ## Probabilistic Graphical Models
 - [Brendan Frey](http://www.psi.toronto.edu/~frey/)
+- [Alireza Makhzani](httphttps://scholar.google.com/citations?user=vtegaJgAAAAJ://www.alireza.ai/publications/)
+- [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
 ## Computer Vision
-- []()
+- [Kaiming He](http://kaiminghe.com/)
+- [Antonio Torralba](http://web.mit.edu/torralba/)
+- [Aude Olivia](http://cvcl.mit.edu/Aude.htm) 
+- [Ali Farhadi](https://homes.cs.washington.edu/~ali/) 
+- [Sanja Fidler](http://www.cs.utoronto.ca/~fidler/) 
+- [Fei Fei Li](http://vision.stanford.edu/feifeili/)
+- [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/)
 
+## Recommender Systems
+- [Craig Boutilier](http://www.cs.toronto.edu/~cebly/)
+- [Balazs Hidasi](http://www.hidasi.eu/en/index.html)
+
+## Robotics
+- [Dieter Fox](http://homes.cs.washington.edu/~fox/)
+- [Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)
 
 # Learning Resources
 ## Books
