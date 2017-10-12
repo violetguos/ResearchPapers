@@ -1,5 +1,8 @@
 Papers for myself to read
 
+# Blogs 
+- [Deep Learning Reading List](http://deeplearning.net/reading-list/)
+
 # Existing Repos:
 - [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
@@ -22,6 +25,7 @@ Papers for myself to read
 - [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 - [Yann LeCunn](http://yann.lecun.com/)
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+- [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)
 - [Ruslan](http://www.cs.toronto.edu/~rsalakhu/publications.html)
 - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
 - [Alex Graves](https://www.cs.toronto.edu/~graves/)
@@ -123,9 +127,28 @@ Papers for myself to read
 
 # Surveys 
 
+- **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
+
 ## Recommendation Systems
 - **Deep Learning based Recommender System: A Survey and New Perspectives** (2016), SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
 
+- **Towards Bayesian Deep Learning: A Survey** (2016), Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
+
+
+## Reinforcement Learning
+- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
+- **A Brief Survey of Deep Reinforcement Learning** (2016), Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
+- **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016), Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
+
+## Music Generation
+- **Deep Learning Techniques for Music Generation - A Survey** (2017), Jean et al. [[pdf]](https://arxiv.org/pdf/1709.01620v1.pdf)
+
+## Computer Vision
+- **A Review of Deep Learning Techniques Applied To Semantic Segmentation** (2017), Ali et al. [[pdf]](https://arxiv.org/pdf/1704.06857.pdf)
+
+- **Survey on the attention based RNN model and its applications in computer vision** (2016), Feng Wang et al. [[pdf]](https://arxiv.org/pdf/1601.06823v1.pdf)
+
+- **Salient Object Detection: A Survey** (2014), Ali et al. [[pdf]](https://arxiv.org/pdf/1411.5878v4.pdf)
 
 # Papers 
 ## Deep Learning
