@@ -76,6 +76,8 @@ Papers for myself to read
 
 ## Probabilistic Graphical Models
 - [Brendan Frey](http://www.psi.toronto.edu/~frey/)
+- [Daphne Koller](http://ai.stanford.edu/users/koller/) 
+- [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
 - [Alireza Makhzani](http://www.alireza.ai/)
 - [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
