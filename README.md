@@ -52,6 +52,7 @@ Papers for myself to read
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 - [Volodymyr Mnih](http://www.cs.toronto.edu/~vmnih/)
+- [John Schulman](http://joschu.net/)
 
 ## Bayesian 
 - [Radford Neal](http://www.cs.toronto.edu/~radford/)
