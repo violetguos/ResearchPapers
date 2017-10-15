@@ -70,6 +70,7 @@ Papers for myself to read
 
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
+- [Alex Smola](https://alex.smola.org/) 
 
 ## Generative Models
 - [Ian Goodfellow](http://www.iangoodfellow.com/) 
