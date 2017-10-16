@@ -128,6 +128,7 @@ Papers for myself to read
 - [Learning Probabilistic Models for Visual Motion by David Ross](http://www.cs.toronto.edu/~dross/phd/Ross_David_A_200811_PhD_thesis.pdf)
 - [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
 - [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
+- [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
 
 # Surveys 
 
