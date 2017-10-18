@@ -109,8 +109,7 @@ Papers for myself to read
 # Video Lectures
 
 ## Gaussian Process
-- [Gaussian Process Summer School 2017] (
-https://www.youtube.com/playlist?list=PLpTp0l_CVmgwyAthrUmmdIFiunV1VvicM)
+- [Gaussian Process Summer School 2017](https://www.youtube.com/playlist?list=PLpTp0l_CVmgwyAthrUmmdIFiunV1VvicM)
 
 # Courses
 
