@@ -164,6 +164,19 @@ Papers for myself to read
 ## Reinforcement Learning
 - [CMU 10703 RL by Ruslan](https://katefvision.github.io/)
 
+## Deep Learning, University of Toronto
+- [ECE521 Inference Algorithm and Machine Learning by Jimmy Ba Winter 2017](https://ece521.github.io/)
+- [CSC2541 Scalable and Flexible Models of Uncertainty by Roger Fall 2017](https://csc2541-f17.github.io/)
+- [CSC2539 Visual Recognition with Text by Sanja Winter 2017](http://www.cs.utoronto.ca/~fidler/teaching/2017/CSC2539.html)
+- [CSC2541 Sports Analytics by Raquel Winter 2017](http://www.cs.toronto.edu/~urtasun/courses/CSC2541_Winter17/CSC2541_Winter17.html)
+- [CSC2541 Algorithms for Sequential Decision Making by Sheila Winter 2017](http://www.teach.cs.toronto.edu/~csc2542h/fall/slides.html)
+- [CSC2541 Differential Inference and Generative Models by David Duvenaud Fall 2016](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+- [CSC2541 Visual Perception for Autonomous Driving by Raquel Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
+- [CSC2523 Deep Learning in Computer Vision by Sanja Winter 2016](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
+- [CSC2541 Bayesian Methods for Machine Learning by Radford 2011](http://www.cs.utoronto.ca/~radford/csc2541.S11/)
+- [CSC412 PGM by David Duvenaud Winter 2017](http://www.cs.toronto.edu/~duvenaud/courses/csc412/)
+- [CSC411 Machine Learning by Richard Zemel Fall 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/CSC411_Fall16.html#assignments)
+- [CSC321 Introduction to Neural Networks by Roger Winter 2017](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 
 # Books
 
