@@ -185,7 +185,7 @@ Papers for myself to read
 ## Probabilitistic Graphical Models
 
 ## Reinforcement Learning
-- **Playing Atari with Deep Reinforcement Learning** (2012), Volodymyr Mnih et al. [[pdf]](Playing Atari with Deep Reinforcement Learning)
+- **Playing Atari with Deep Reinforcement Learning** (2012), Volodymyr Mnih et al. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - **Human-level control through deep reinforcement learning** (2015), Volodymyr Mnih et al. [[pdf]](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 - **Deep Reinforcement Learning with Double Q-learning** (2015), van Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
 
