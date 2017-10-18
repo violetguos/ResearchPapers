@@ -142,7 +142,7 @@ Papers for myself to read
 
 
 ## Reinforcement Learning
-- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
+- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]] (https://arxiv.org/pdf/1701.07274.pdf)
 - **A Brief Survey of Deep Reinforcement Learning** (2016), Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
 - **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016), Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
 
