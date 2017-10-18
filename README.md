@@ -54,6 +54,7 @@ Papers for myself to read
 - [Volodymyr Mnih](http://www.cs.toronto.edu/~vmnih/)
 - [John Schulman](http://joschu.net/)
 - [Csaba Szepesvári]( https://sites.ualberta.ca/~szepesva/)
+- [Tom Schaul](http://schaul.site44.com/)
 
 ## Bayesian 
 - [Radford Neal](http://www.cs.toronto.edu/~radford/)
