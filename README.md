@@ -62,7 +62,7 @@ Papers for myself to read
 - [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
 - [Max Welling](http://www.ics.uci.edu/~welling/)
 - [Durk Kingma](http://dpkingma.com/)
-- [Yarin Gal] (http://www.cs.ox.ac.uk/people/yarin.gal/website/index.html)
+- [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/index.html)
 
 ## Gaussian Processes 
 - [Carl Edward Rasmussen](http://mlg.eng.cam.ac.uk/carl/)
