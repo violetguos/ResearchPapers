@@ -190,6 +190,7 @@ Papers for myself to read
 - **Human-level control through deep reinforcement learning** (2015), Volodymyr Mnih et al. [[pdf]](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 - **Deep Reinforcement Learning with Double Q-learning** (2015), van Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
 - **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
+- **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]] (https://arxiv.org/abs/1511.06581)
 
 
 ## Attention Models
