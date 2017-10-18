@@ -108,10 +108,62 @@ Papers for myself to read
 
 # Video Lectures
 
+## Machine Learning
+- [CS229 Machine Learning by Andrew Ng 2008](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLFC36A799B7FFD0CF)
+- [STA4273 Large Scale Machine Learning By Ruslan 2015](http://www.fields.utoronto.ca/video-archive/event/323/2014)
+- [Oxford Machine Learning by Nando De Freitas 2014](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- [CS109 Caltech Machine Learning by Abu](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A&index=1)
+- [CMU 10701 Machine Learning by Alexander Smola 2015](http://alex.smola.org/teaching/10-701-15/index.html)
+- [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2016](http://www.stat.cmu.edu/~larry/=sml/)
+- [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
+- [CMU 10715 Advanced Introduction to Machine Learning by Alexander Smola Fall 2015](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
+
+## Neural Networks
+- [CSC321 Coursera by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
+- [Deep Learning Summer School Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
+- [Deep Learning Summer School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+
 ## Gaussian Process
 - [Gaussian Process Summer School 2017](https://www.youtube.com/playlist?list=PLpTp0l_CVmgwyAthrUmmdIFiunV1VvicM)
 
-# Courses
+## Statistics 
+- [CMU 36705 2016](https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF)
+
+## Convex Optimization
+- [EE364a Convex Optimization 1 by Stephen Boyd 2008](https://stanford.edu/class/ee364a/videos.html)
+- [EE364b Convex Optimization 1 by Stephen Boyd 2008](https://stanford.edu/class/ee364b/videos.html)
+
+## Information Theory
+- [Information Theory by Mackay](http://videolectures.net/mackay_course_01/)
+
+## Reinforcement Learning
+- [Deep Reinforcement BootCamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [DeepMind UCL RL Course by David Silver 2015](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+- [CS294 Berkeley Deep Reinforcement Learning by Sergey Levine Spring 2017](http://rll.berkeley.edu/deeprlcoursesp17/#lecture-videos)
+- [CS294 Berkeley Deep Reinforcement Learning by Sergey Levine Fall 2017](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
+- [RL by John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4)
+
+## Convolutional Neural Networks, Computer Vision
+- [CSC231N Andrej Karpathy 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&index=1&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+- [CSC231N FeifeiLi 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+## Recurrent Neural Networks, Natural Language Processing
+- [CS224d Richard Socher 2016](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG&index=1)
+- [CSC224d Christopher Manning 2017](https://www.youtube.com/watch?v=OQQ-W_63UgQ&index=1&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+- [Oxford Deep Learning for Natural Language Processing 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [STAT946 by word2vec AliGhodsi](https://www.youtube.com/watch?v=TsEGsdVJjuA)
+
+## Generative Adversarial Networks
+- [NIPS GAN Workshop 2016](https://www.youtube.com/watch?v=aUrX-rP_ss4)
+
+## Self Driving Cars
+- [MIT Deep Learning For Self Driving Car Winter 2017](http://selfdrivingcars.mit.edu/)
+
+# Courses (Just notes, no videos)
+
+## Reinforcement Learning
+- [CMU 10703 RL by Ruslan](https://katefvision.github.io/)
+
 
 # Books
 
