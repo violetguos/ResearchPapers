@@ -70,6 +70,7 @@ Papers for myself to read
 - [Ryan Adams](http://people.seas.harvard.edu/~rpa/) 
 - [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/)
 - [David Duvenaud](https://www.cs.toronto.edu/~duvenaud/) 
+- [Neil Lawrence](http://inverseprobability.com/)
 
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
