@@ -174,6 +174,7 @@ Papers for myself to read
 - [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
 - [Deep Learning Representation and Its Application To Computer Vision by Ian Goodfellow](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/11674/Goodfellow_Ian_2014_these.pdf?sequence=4)
 - [Learning Deep Generative Models by Ruslan](https://tspace.library.utoronto.ca/bitstream/1807/19226/3/Salakhutdinov_Ruslan_R_200910_PhD_thesis.pdf) 
+- [Shaping and Policy Search In Reinforcement Learning by Andrew Ng 2003](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf)
 - [Exploring Deep Learning Methods for Discovering Features in Speech Signals by Jaitly](http://www.cs.toronto.edu/~ndjaitly/Jaitly_Navdeep_201411_PhD_thesis.pdf)
 - [Training Recurrent Neural Networks By Ilya](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) 
 - [Deep Learning Approaches to Problems in Speech Recognition, Computational Chemistry, and Natural Language Text Processing by George Edward Dahl](https://www.cs.toronto.edu/~gdahl/papers/Dahl_George_E_201506_PhD_thesis.pdf)
