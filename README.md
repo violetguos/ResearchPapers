@@ -131,7 +131,7 @@ Papers for myself to read
 
 ## Convex Optimization
 - [EE364a Convex Optimization 1 by Stephen Boyd 2008](https://stanford.edu/class/ee364a/videos.html)
-- [EE364b Convex Optimization 1 by Stephen Boyd 2008](https://stanford.edu/class/ee364b/videos.html)
+- [EE364b Convex Optimization 2 by Stephen Boyd 2008](https://stanford.edu/class/ee364b/videos.html)
 
 ## Information Theory
 - [Information Theory by Mackay](http://videolectures.net/mackay_course_01/)
