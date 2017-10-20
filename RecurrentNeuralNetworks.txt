@@ -10,6 +10,9 @@ TitleOfTopicThatThesePapersAreAbout
   - Future Direction/Drawbacks
   - What are the future directions of this paper for the author
   - Drawbacks of the paper
+  - Assumptions Made
+  - (Optional) Method/Approach Used
+  - Brief discussion of the algorithm used if it's obvious to understand. 
   - (Optional) Related work information that may be useful
   - (Optional) Datasets used so we know if we are able to use them
   - (Optional) Anything else you want to add about the paper as summarize notes. 
