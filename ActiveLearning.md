@@ -1,0 +1,26 @@
+# Active Learning
+//----------------------------------------------------------------------------------------------------
+FORMAT
+TitleOfTopicThatThesePapersAreAbout
+- Title of Paper followed by link to paper https://arxiv.org/pdf/1407.2806v1.pdf 
+    - Motivation/Problem:
+        - The problem or motivation that the paper was written
+    -Contributions/Results (math proofs/experiments/newDataSet):
+        - Issues with matrix factorization with cold start. 
+        - What was contributed by this paper
+    - Future Direction/Drawbacks
+        - What are the future directions of this paper for the author
+        - Drawbacks of the paper
+        - Assumptions Made
+        - (Optional) Method/Approach Used
+    - Brief discussion of the algorithm used if it's obvious to understand. 
+        - (Optional) Related work information that may be useful
+        - (Optional) Datasets used so we know if we are able to use them
+        - (Optional) Anything else you want to add about the paper as summarize notes. 
+- Title of Next paper followed by link to that paper https://arxiv.org/pdf/1407.2806v1.pdf 
+//----------------------------------------------------------------------------------------------------
+
+
+## Active Learning
+- [Information-Based Objective Functions for Active Data Selection](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
+    - 
