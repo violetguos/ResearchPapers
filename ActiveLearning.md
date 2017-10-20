@@ -23,4 +23,21 @@ TitleOfTopicThatThesePapersAreAbout
 
 ## Active Learning
 - [Information-Based Objective Functions for Active Data Selection](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
-    - 
+    - Motivation/Problem:
+        - Each data can be expensive, for instance, self driving car accidents. 
+        - Too much data, no time to train on all data. 
+        - Therefore, want to select which data to use for learning. 
+    - Contribution
+        - Select salient data points during learning using objective function that measure expected amount of information. 
+        - 3 types of information to gather.
+            - Maximal information for the weights of a given model. 
+            - Predict value accurately in limited region instead of globally. 
+            - Maximal information to discriminate between different models. 
+    - Future Direction/Drawbacks
+        - Assume hypothesis space is correct. 
+    - Related Works
+        - Train on a new objective function for maximizing information gain. 
+        - Separate objective function from actual objective of minimizing loss for a given goal. 
+        - Human designed algorithms have no clear objective functions. Don't know what it's trying to achieve.  
+        - Consult entire dataset to select which to be used for training, but consulting time could be expensive. 
+        
