@@ -24,16 +24,25 @@ Papers for myself to read
 
 ## Deep Learning
 - [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
-- [Yann LeCunn](http://yann.lecun.com/)
-- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
-- [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)
-- [Ruslan](http://www.cs.toronto.edu/~rsalakhu/publications.html)
-- [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
 - [Alex Graves](https://www.cs.toronto.edu/~graves/)
 - [Hugo Larochelle](http://www.dmi.usherb.ca/~larocheh/index_en.html)
 - [Samy Bengio](http://bengio.abracadoudou.com/)
 - [Aaron Courville](https://aaroncourville.wordpress.com/)
 - [Jimmy Ba](https://jimmylba.github.io/) 
+
+### Deep Boltzmann Machine
+- [Ruslan](http://www.cs.toronto.edu/~rsalakhu/publications.html)
+
+### Convolutional Neural Networks
+- [Yann LeCunn](http://yann.lecun.com/)
+- [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
+
+### Recurrent Neural Networks
+- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+
+#### Long Short Term Memory
+- [Sepp Hochreiter](https://scholar.google.com/citations?hl=en&user=tvUH3WMAAAAJ&view_op=list_works&citft=1&email_for_op=scheeloong%40gmail.com&gmla=AJsN-F7kEQO9J35i7qjkxrf4EpN86AuTjBX73v2rfaxQ8tGqrnw2guHj3WjvDFGRJLyE-neJJU-EI8e79kh4p1WuUrblDsxCZfme8zrVwUJRezWjsomVptHrmlQGb-s9M7Phc7kwBUSOAsjce1kEdFYYKBQAyjd3JNDUWV6Cjtl14DSBnOxHlxXpl2x3Kck_yTbYywtCIJKfwT-dkZXcAYhAxnCfzE8qXTejqxMb3Bv2XVB1etQlTub2haJeHlC9SbKxJ7G9ZfDM)
+- [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)
 
 ## Self-Driving Cars
 - [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/)
@@ -57,6 +66,17 @@ Papers for myself to read
 - [Csaba Szepesvári]( https://sites.ualberta.ca/~szepesva/)
 - [Tom Schaul](http://schaul.site44.com/)
 
+## Generative Models
+- [Ian Goodfellow](http://www.iangoodfellow.com/) 
+- [Leon Bottou](http://leon.bottou.org/)
+
+## Probabilistic Graphical Models
+- [Brendan Frey](http://www.psi.toronto.edu/~frey/)
+- [Daphne Koller](http://ai.stanford.edu/users/koller/) 
+- [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
+- [Alireza Makhzani](http://www.alireza.ai/)
+- [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
+
 ## Bayesian 
 - [Radford Neal](http://www.cs.toronto.edu/~radford/)
 - [Jeffrey Rosenthal](http://probability.ca/jeff/)
@@ -76,17 +96,6 @@ Papers for myself to read
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
 - [Alex Smola](https://alex.smola.org/) 
-
-## Generative Models
-- [Ian Goodfellow](http://www.iangoodfellow.com/) 
-- [Leon Bottou](http://leon.bottou.org/)
-
-## Probabilistic Graphical Models
-- [Brendan Frey](http://www.psi.toronto.edu/~frey/)
-- [Daphne Koller](http://ai.stanford.edu/users/koller/) 
-- [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
-- [Alireza Makhzani](http://www.alireza.ai/)
-- [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
 ## Computer Vision
 - [Kaiming He](http://kaiminghe.com/)
