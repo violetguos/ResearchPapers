@@ -194,6 +194,8 @@ Papers for myself to read
 
 # Books
 
+- [Active Learning by Burr Settles](http://www.morganclaypool.com/doi/pdf/10.2200/S00429ED1V01Y201207AIM018)
+
 # Tutorials/Conferences/Workshops
 <!--------------------------------------------------- THESIS -------------------------------------------------->
 
@@ -231,6 +233,9 @@ Papers for myself to read
 - **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]] (https://arxiv.org/pdf/1701.07274.pdf)
 - **A Brief Survey of Deep Reinforcement Learning** (2016), Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
 - **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016), Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
+
+## Active Learning
+- **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](https://s3.amazonaws.com/academia.edu.documents/30743174/settles_active_learning.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508483373&Signature=kOqdWV%2BqxXu0vTNHb8sKzAdeE14%3D&response-content-disposition=inline%3B%20filename%3DActive_learning_literature_survey.pdf)
 
 ## Music Generation
 - **Deep Learning Techniques for Music Generation - A Survey** (2017), Jean et al. [[pdf]](https://arxiv.org/pdf/1709.01620v1.pdf)
