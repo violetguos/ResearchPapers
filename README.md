@@ -137,6 +137,8 @@ Papers for myself to read
 
 ## Gaussian Process
 - [Gaussian Process Summer School 2017](https://www.youtube.com/playlist?list=PLpTp0l_CVmgwyAthrUmmdIFiunV1VvicM)
+- [Machine Learning Summer School 2015 Tubingen](https://www.youtube.com/channel/UCty-pPOWlWUk4gXNm5pydcg/videos) 
+- [Machine Learning Summer School 2013 Tubingen](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E) 
 
 ## Statistics 
 - [CMU 36705 2016](https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF)
