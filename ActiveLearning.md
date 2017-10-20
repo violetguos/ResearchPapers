@@ -45,3 +45,24 @@ TitleOfTopicThatThesePapersAreAbout
         - Human designed algorithms have no clear objective functions. Don't know what it's trying to achieve.  
         - Consult entire dataset to select which to be used for training, but consulting time could be expensive. 
         
+## Curriculum Learning
+- [Automated Curriculum Learning for Neural Networks](https://arxiv.org/abs/1704.03003)
+    - Motivation/Problem: 
+        - Learn easy problems first, then learn harder problems. 
+        - However, assume that the difficulty can be ordered, which can be wrong since:
+            - difficulty can be in multiple dimensions
+            - there is no order of difficulty at all. 
+        - Also, need to tune random hyperparameters to learn:
+            - when to move to next difficulty
+            - re-learn basics to prevent forgetting. 
+        - Learning progress are used as reward signals to encourage explorations. 
+    - Contribution
+        - Focuses on Prediction Gain, a type of indicator progress. 
+    - Future Direction/Drawbacks 
+    - Related work: 
+        - Indicators of learning progress are: 
+            - compression progress
+            - information acquisition
+            - Bayesian surprise
+            - prediction gain
+            - variational information maximisation. 
