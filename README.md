@@ -16,6 +16,7 @@ Papers for myself to read
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Courses](https://github.com/prakhar1989/awesome-courses)
+<!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
 
 # Researchers
 ## Machine Learning
@@ -106,6 +107,7 @@ Papers for myself to read
 - [Dieter Fox](http://homes.cs.washington.edu/~fox/)
 - [Rafaello DAndrea](http://raffaello.name/)
 - [Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)
+<!--------------------------------------------------- VIDEO LECTURES -------------------------------------------------->
 
 # Video Lectures
 
@@ -179,9 +181,12 @@ Papers for myself to read
 - [CSC411 Machine Learning by Richard Zemel Fall 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/CSC411_Fall16.html#assignments)
 - [CSC321 Introduction to Neural Networks by Roger Winter 2017](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 
+<!--------------------------------------------------- BOOKS -------------------------------------------------->
+
 # Books
 
 # Tutorials/Conferences/Workshops
+<!--------------------------------------------------- THESIS -------------------------------------------------->
 
 # Thesis
 - [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
@@ -203,6 +208,7 @@ Papers for myself to read
 - [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
 
+<!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
 
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
@@ -211,7 +217,6 @@ Papers for myself to read
 - **Deep Learning based Recommender System: A Survey and New Perspectives** (2016), SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
 
 - **Towards Bayesian Deep Learning: A Survey** (2016), Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
-
 
 ## Reinforcement Learning
 - **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]] (https://arxiv.org/pdf/1701.07274.pdf)
@@ -228,6 +233,7 @@ Papers for myself to read
 
 - **Salient Object Detection: A Survey** (2014), Ali et al. [[pdf]](https://arxiv.org/pdf/1411.5878v4.pdf)
 
+<!--------------------------------------------------- PAPERS -------------------------------------------------->
 # Papers 
 ## Deep Learning
 
@@ -246,8 +252,6 @@ Papers for myself to read
 
 ### Convolutional Neural Networks
 
-
-
 ### Recurrent Neural Networks
 
 ### Generative Adversarial Networks
@@ -263,6 +267,12 @@ Papers for myself to read
 - **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
 
+## Active Learning
+- **Practical Bayesian Optimization of Machine Learning Algorithms
+** (1992), David Mackay et al. [[pdf]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-l)
+- **Automated Curriculum Learning for Neural Networks** (2017), Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
+
+## Exploration vs Exhaustation 
 
 ## Attention Models
 
