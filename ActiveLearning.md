@@ -66,3 +66,16 @@ TitleOfTopicThatThesePapersAreAbout
             - Bayesian surprise
             - prediction gain
             - variational information maximisation. 
+        - Learning progress is the rate at which you minimize loss. 
+        - Learning progress signals can be: 
+            - Loss driven => Lower loss means higher progress
+                - Prediction gain
+                - Gradient prediction gain
+                - Self prediction gain
+                - Target prediction gain
+                - Mean prediction gain
+            - Complexity driven => Higher complexity means higher progress. 
+                - Variational Complexity Gain
+                - Gradient variational complexity gain
+                - Variational Information Maximizing Exploration
+                - L2 Gain
