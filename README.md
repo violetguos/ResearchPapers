@@ -268,8 +268,7 @@ Papers for myself to read
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
 
 ## Active Learning
-- **Practical Bayesian Optimization of Machine Learning Algorithms
-** (1992), David Mackay et al. [[pdf]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-l)
+- **Information-Based Objective Functions for Active Data Selection** (1992), David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
 - **Automated Curriculum Learning for Neural Networks** (2017), Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
 
 ## Exploration vs Exhaustation 
