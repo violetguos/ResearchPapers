@@ -33,6 +33,10 @@ TitleOfTopicThatThesePapersAreAbout
             - Maximal information for the weights of a given model. 
             - Predict value accurately in limited region instead of globally. 
             - Maximal information to discriminate between different models. 
+        - Pick datapoint that maximizes the entropy of the difference between weight distribution
+          before datapoint and weight distribution after datapoint. 
+        - Prove that expectation of this approach is same as expectation of cross entropy between both distributions.
+        - Generalizes to multiple data point and multiple outputs case. 
     - Future Direction/Drawbacks
         - Assume hypothesis space is correct. 
     - Related Works
