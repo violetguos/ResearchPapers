@@ -286,6 +286,7 @@ Papers for myself to read
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
 - **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004), Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
 - **High-Dimensional Continuous Control Using Generalized Advantage Estimation** (2015), Schulman et al. [[pdf]](https://arxiv.org/abs/1506.02438)
+- **Approximately Approximate Optimal Reinforcement Learning** (2002), Sham Kakade et al. [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - **Trust Region Policy Optimization** (2017), Schulman et al. [[pdf]](https://arxiv.org/abs/1502.05477)
 
 ## Active Learning
