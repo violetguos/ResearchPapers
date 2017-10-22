@@ -136,6 +136,7 @@ Papers for myself to read
 - [CSC321 Coursera by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 - [Deep Learning Summer School Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 - [Deep Learning Summer School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+- [Bay Area Deep Learning School at CEMEX 2016](https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos)
 - [STA946 Deep Learning by Ali Ghodsi](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) 
 
 ## Gaussian Process
