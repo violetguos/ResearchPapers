@@ -285,6 +285,7 @@ Papers for myself to read
 - **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
 - **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004), Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
+- **High-Dimensional Continuous Control Using Generalized Advantage Estimation** (2015), Schulman et al. [[pdf]](https://arxiv.org/abs/1506.02438)
 
 ## Active Learning
 - **Information-Based Objective Functions for Active Data Selection** (1992), David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
