@@ -56,6 +56,7 @@ Papers for myself to read
 - [Kyunghyun Cho](http://www.kyunghyuncho.me/)
 - [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)
 - [Claire Cardie](http://www.cs.cornell.edu/home/cardie/) 
+- [Sebastian Ruder](http://ruder.io/)
 
 ## Reinforcement Learning
 - [Richard Sutton](https://scholar.google.com/citations?user=hNTyptAAAAAJ) 
