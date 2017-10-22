@@ -62,6 +62,7 @@ Papers for myself to read
 - [Richard Sutton](https://scholar.google.com/citations?user=hNTyptAAAAAJ) 
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
+- [Jan Peters](http://www.jan-peters.net/)
 - [Volodymyr Mnih](http://www.cs.toronto.edu/~vmnih/)
 - [John Schulman](http://joschu.net/)
 - [Csaba Szepesvári]( https://sites.ualberta.ca/~szepesva/)
@@ -237,6 +238,7 @@ Papers for myself to read
 - **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]] (https://arxiv.org/pdf/1701.07274.pdf)
 - **A Brief Survey of Deep Reinforcement Learning** (2016), Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
 - **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016), Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
+- **Reinforcement Learning in Robotics: A Survey** (2013), Jens Kober et al. [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364913495721)
 
 ## Active Learning
 - **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](https://s3.amazonaws.com/academia.edu.documents/30743174/settles_active_learning.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508483373&Signature=kOqdWV%2BqxXu0vTNHb8sKzAdeE14%3D&response-content-disposition=inline%3B%20filename%3DActive_learning_literature_survey.pdf)
@@ -284,9 +286,13 @@ Papers for myself to read
 - **Deep Reinforcement Learning with Double Q-learning** (2015), van Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
 - **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
+### Policy Gradient
+- **A Natural Policy Gradient** (2002), Kakade et al. [[pdf]](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
+- **Approximately Approximate Optimal Reinforcement Learning** (2002), Sham Kakade [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004), Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
+- **Natural Actor Critic** (2007), Peter et al. [[pdf]](http://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/attachments/NEUCOM-D-07-00618-1_%5b0%5d.pdf)
+- **Relative Entropy Policy Search** (2010), Peter et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1851/2264)
 - **High-Dimensional Continuous Control Using Generalized Advantage Estimation** (2015), Schulman et al. [[pdf]](https://arxiv.org/abs/1506.02438)
-- **Approximately Approximate Optimal Reinforcement Learning** (2002), Sham Kakade et al. [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - **Trust Region Policy Optimization** (2017), Schulman et al. [[pdf]](https://arxiv.org/abs/1502.05477)
 
 ## Active Learning
