@@ -223,6 +223,7 @@ Papers for myself to read
 - [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
 - [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
+- [Optimizing Expectations From Deep Reinforcement Learning To Stochastic Computation Graphs by John Schulman](http://joschu.net/docs/thesis.pdf)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
