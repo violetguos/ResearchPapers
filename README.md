@@ -225,6 +225,7 @@ Papers for myself to read
 - [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
 - [Optimizing Expectations From Deep Reinforcement Learning To Stochastic Computation Graphs by John Schulman](http://joschu.net/docs/thesis.pdf)
+- [SECOND-ORDER OPTIMIZATION FOR NEURAL NETWORKS by James Marten](http://www.cs.toronto.edu/~jmartens/docs/thesis_phd_martens.pdf)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
