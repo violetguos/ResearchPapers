@@ -80,6 +80,7 @@ Papers for myself to read
 - [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
 ## Bayesian 
+- [David Mackay](http://www.inference.org.uk/mackay/) 
 - [Radford Neal](http://www.cs.toronto.edu/~radford/)
 - [Jeffrey Rosenthal](http://probability.ca/jeff/)
 - [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
@@ -206,6 +207,7 @@ Papers for myself to read
 <!--------------------------------------------------- THESIS -------------------------------------------------->
 
 # Thesis
+- [Bayesian Methods for Adaptive Model by David Mackay](http://www.inference.org.uk/mackay/PhD.html)
 - [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
 - [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
 - [Deep Learning Representation and Its Application To Computer Vision by Ian Goodfellow](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/11674/Goodfellow_Ian_2014_these.pdf?sequence=4)
