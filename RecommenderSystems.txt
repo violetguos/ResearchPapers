@@ -1,0 +1,76 @@
+# Active Learning
+//----------------------------------------------------------------------------------------------------
+FORMAT
+TitleOfTopicThatThesePapersAreAbout
+- Title of Paper followed by link to paper https://arxiv.org/pdf/1407.2806v1.pdf 
+    - Motivation/Problem:
+        - The problem or motivation that the paper was written
+    -Contributions/Results (math proofs/experiments/newDataSet):
+        - Issues with matrix factorization with cold start. 
+        - What was contributed by this paper
+    - Future Direction/Drawbacks
+        - What are the future directions of this paper for the author
+        - Drawbacks of the paper
+        - Assumptions Made
+        - (Optional) Method/Approach Used
+    - Brief discussion of the algorithm used if it's obvious to understand. 
+        - (Optional) Related work information that may be useful
+        - (Optional) Datasets used so we know if we are able to use them
+        - (Optional) Anything else you want to add about the paper as summarize notes. 
+    - Dataset
+        - DatasetOne
+        - DatasetTwo
+    - Related Works
+        - 
+- Title of Next paper followed by link to that paper https://arxiv.org/pdf/1407.2806v1.pdf 
+//----------------------------------------------------------------------------------------------------
+
+## Recommender Systems
+- [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/citation.cfm?id=2959165)
+    - Motivation/Problem:
+        - Sparseness of user data 
+        - Context aware recommendation model       
+    - Contribution
+        - Combine Convolutional Neural Network with Probabilistic Matrix Factorization 
+        - Convolutional Neural Network extracts information into model. 
+    - Future Direction/Drawbacks
+    - Dataset
+        - MovieLens
+    - Related Works
+        
+- [Probabilistic Matrix Factorization by Ruslan] (https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
+    - Motivation/Problem:
+        - Large, sparse, imbalanced dataset      
+    - Contribution
+        - Probabilistic Matrix Factorization
+        - Constrained version of the PMF model. 
+        - scales linearly with number of observations 
+    - Future Direction/Drawbacks
+        - Assumes users who have rated similar set of movies are likely to have similar preferences.
+    - Dataset
+        - Netflix 
+- [Collaborative Topic Modeling For Recommending Scientific Articles 2011 by Chong Wang] (https://dl.acm.org/citation.cfm?id=2020480)
+    - Motivation/Problem:
+        - Too many research papers, had to locate relevant ones.    
+        - Won't be able to locate relevant papers if not cited by the papers being read. 
+        - Users may not need know what to look for using keyword search. 
+        - Cold start problem, need to be able to handle articles out of the field. 
+    - Contribution
+        - Combines traditional collaborative filtering based on latent factor models and probabilistic topic modelling. 
+        - Uses Latent Dirichlet Allocation for topic modelling of text corpora. 
+    - Dataset
+        - CiteULike
+- [A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng]      
+    - Motivation/Problem: 
+        - 
+    - Contribution
+        - CF-NADE 
+        - Combines Restricted Boltzmann Machine based CF-model and Neural Autoregressive Distribution Estimator
+    - Dataset 
+        - MovieLens
+        - Netflix 
+        
+- [Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun](http://proceedings.mlr.press/v63/ko101.pdf)
+    - Motivation/Problem: 
+        
+        
