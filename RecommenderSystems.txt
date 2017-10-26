@@ -72,5 +72,6 @@ TitleOfTopicThatThesePapersAreAbout
         
 - [Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun](http://proceedings.mlr.press/v63/ko101.pdf)
     - Motivation/Problem: 
+        - 
         
         
