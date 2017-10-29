@@ -229,6 +229,7 @@ Papers for myself to read
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
 - [Optimizing Expectations From Deep Reinforcement Learning To Stochastic Computation Graphs by John Schulman](http://joschu.net/docs/thesis.pdf)
 - [SECOND-ORDER OPTIMIZATION FOR NEURAL NETWORKS by James Marten](http://www.cs.toronto.edu/~jmartens/docs/thesis_phd_martens.pdf)
+- [Temporal Credit Assignment in Reinforcement Learning by Richard Sutton](https://search.proquest.com/docview/303321395)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
@@ -287,26 +288,32 @@ Papers for myself to read
 ## Probabilitistic Graphical Models
 
 ## Reinforcement Learning
+- **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
+
+### Deep Reinforcement Learning
 - **Playing Atari with Deep Reinforcement Learning** (2012), Volodymyr Mnih et al. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - **Human-level control through deep reinforcement learning** (2015), Volodymyr Mnih et al. [[pdf]](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 - **Deep Reinforcement Learning with Double Q-learning** (2015), van Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
 - **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
 
+### Actor Critic 
+- *** A Mathematical Analysis of Actor-Critic Architectures for Learning Optimal Controls Through Incremental Dynamic Programming *** (1990), Ronal Williams [[pdf]](http://www.leemon.com/papers/1990wb.pdf)
+    
 ### Policy Gradient
 - **Simple statistical gradient-following algorithms for connectionist reinforcement learning** (1992), Ronald Williams [[pdf]](https://link.springer.com/article/10.1007/BF00992696)
 - **Policy Gradient Methods for Reinforcement Learning With Function Approximation** (2000), Richard Sutton et al. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
-- **A Natural Policy Gradient** (2002), Kakade et al. [[pdf]](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
+- **A Natural Policy Gradient** (2001), Kakade et al. [[pdf]](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
 - **Approximately Approximate Optimal Reinforcement Learning** (2002), Sham Kakade [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004), Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
 - **Natural Actor Critic** (2007), Peter et al. [[pdf]](http://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/attachments/NEUCOM-D-07-00618-1_%5b0%5d.pdf)
-- **Relative Entropy Policy Search** (2010), Peter et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1851/2264)
+- **Relative Entropy Policy Search** (2011), Peter et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1851/2264)
 - **High-Dimensional Continuous Control Using Generalized Advantage Estimation** (2015), Schulman et al. [[pdf]](https://arxiv.org/abs/1506.02438)
 - **Trust Region Policy Optimization** (2017), Schulman et al. [[pdf]](https://arxiv.org/abs/1502.05477)
 
 ## Active Learning
 - **Information-Based Objective Functions for Active Data Selection** (1992), David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
-- **Automated Curriculum Learning for Neural Networks** (2017), Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
+- **Automated Curriculum Learning for Neural Networks** (2016), Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
 
 ## Exploration vs Exhaustation 
 
