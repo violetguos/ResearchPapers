@@ -59,6 +59,7 @@ Papers for myself to read
 - [Sebastian Ruder](http://ruder.io/)
 
 ## Reinforcement Learning
+- [Ronald J Williams](http://www.ccs.neu.edu/home/rjw/) 
 - [Richard Sutton](https://scholar.google.com/citations?user=hNTyptAAAAAJ) 
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
@@ -291,7 +292,10 @@ Papers for myself to read
 - **Deep Reinforcement Learning with Double Q-learning** (2015), van Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
 - **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
+
 ### Policy Gradient
+- **Simple statistical gradient-following algorithms for connectionist reinforcement learning** (1992), Ronald Williams [[pdf]](https://link.springer.com/article/10.1007/BF00992696)
+- **Policy Gradient Methods for Reinforcement Learning With Function Approximation** (2000), Richard Sutton et al. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
 - **A Natural Policy Gradient** (2002), Kakade et al. [[pdf]](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
 - **Approximately Approximate Optimal Reinforcement Learning** (2002), Sham Kakade [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004), Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
