@@ -59,8 +59,9 @@ Papers for myself to read
 - [Sebastian Ruder](http://ruder.io/)
 
 ## Reinforcement Learning
-- [Ronald J Williams](http://www.ccs.neu.edu/home/rjw/) 
 - [Richard Sutton](https://scholar.google.com/citations?user=hNTyptAAAAAJ) 
+- [Andrew G. Barton](http://www-all.cs.umass.edu/~barto/pubs-Barto.html)
+- [Ronald J. Williams](http://www.ccs.neu.edu/home/rjw/) 
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 - [Jan Peters](http://www.jan-peters.net/)
@@ -246,6 +247,8 @@ Papers for myself to read
 - **A Brief Survey of Deep Reinforcement Learning** (2016), Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
 - **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016), Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
 - **Reinforcement Learning in Robotics: A Survey** (2013), Jens Kober et al. [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364913495721)
+- **Reinforcement Learning: A Tutorial Survey and Recent Advances** (2009) Abhijit Gosavi [[pdf]](http://pubsonline.informs.org/doi/pdf/10.1287/ijoc.1080.0305)
+- **A tutorial survey of reinforcement learning** (1994), S Sathiya [[pdf]](https://link.springer.com/article/10.1007/BF02743935)
 
 ## Active Learning
 - **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](https://s3.amazonaws.com/academia.edu.documents/30743174/settles_active_learning.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508483373&Signature=kOqdWV%2BqxXu0vTNHb8sKzAdeE14%3D&response-content-disposition=inline%3B%20filename%3DActive_learning_literature_survey.pdf)
@@ -289,6 +292,7 @@ Papers for myself to read
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
+- **Reinforcement Learning Algorithms as Function Approximators** (1989), Richard Sutton 
 
 ### Deep Reinforcement Learning
 - **Playing Atari with Deep Reinforcement Learning** (2012), Volodymyr Mnih et al. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
