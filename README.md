@@ -301,9 +301,9 @@ Papers for myself to read
 - **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
 - **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
 
-### Actor Critic 
-- *** A Mathematical Analysis of Actor-Critic Architectures for Learning Optimal Controls Through Incremental Dynamic Programming *** (1990), Ronal Williams [[pdf]](http://www.leemon.com/papers/1990wb.pdf)
-    
+### Temporal Differences
+- **Learning to Predict by the Methods of Temporal Differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
+
 ### Policy Gradient
 - **Simple statistical gradient-following algorithms for connectionist reinforcement learning** (1992), Ronald Williams [[pdf]](https://link.springer.com/article/10.1007/BF00992696)
 - **Policy Gradient Methods for Reinforcement Learning With Function Approximation** (2000), Richard Sutton et al. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
@@ -314,6 +314,9 @@ Papers for myself to read
 - **Relative Entropy Policy Search** (2011), Peter et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1851/2264)
 - **High-Dimensional Continuous Control Using Generalized Advantage Estimation** (2015), Schulman et al. [[pdf]](https://arxiv.org/abs/1506.02438)
 - **Trust Region Policy Optimization** (2017), Schulman et al. [[pdf]](https://arxiv.org/abs/1502.05477)
+
+### Actor Critic 
+- *** A Mathematical Analysis of Actor-Critic Architectures for Learning Optimal Controls Through Incremental Dynamic Programming *** (1990), Ronal Williams [[pdf]](http://www.leemon.com/papers/1990wb.pdf)
 
 ## Active Learning
 - **Information-Based Objective Functions for Active Data Selection** (1992), David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
