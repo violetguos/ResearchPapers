@@ -185,6 +185,9 @@ Papers for myself to read
 ## Reinforcement Learning
 - [CMU 10703 RL by Ruslan](https://katefvision.github.io/)
 
+## Bayesian Learning
+- [All of David Blei Courses](http://www.cs.columbia.edu/~blei/courses.html)
+
 ## Deep Learning, University of Toronto
 - [ECE521 Inference Algorithm and Machine Learning by Jimmy Ba Winter 2017](https://ece521.github.io/)
 - [CSC2541 Scalable and Flexible Models of Uncertainty by Roger Fall 2017](https://csc2541-f17.github.io/)
