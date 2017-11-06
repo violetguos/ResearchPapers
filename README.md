@@ -134,11 +134,14 @@ Papers for myself to read
 - [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2016](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
 - [CMU 10715 Advanced Introduction to Machine Learning by Alexander Smola Fall 2015](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
+- [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
+
 
 ## Neural Networks
 - [CSC321 Coursera by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 - [Deep Learning Summer School Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 - [Deep Learning Summer School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+- [University of Amsterdam Deep Learning Course](http://uvadlc.github.io/) 
 - [Bay Area Deep Learning School at CEMEX 2016](https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos)
 - [STA946 Deep Learning by Ali Ghodsi](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) 
 
@@ -187,6 +190,8 @@ Papers for myself to read
 
 ## Bayesian Learning
 - [All of David Blei Courses](http://www.cs.columbia.edu/~blei/courses.html)
+- [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
+
 
 ## Deep Learning, University of Toronto
 - [ECE521 Inference Algorithm and Machine Learning by Jimmy Ba Winter 2017](https://ece521.github.io/)
