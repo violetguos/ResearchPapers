@@ -98,6 +98,9 @@ Papers for myself to read
 - [David Duvenaud](https://www.cs.toronto.edu/~duvenaud/) 
 - [Neil Lawrence](http://inverseprobability.com/)
 
+## Variational Inference
+- [Matthew Hoffman] (http://matthewdhoffman.com/) 
+
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
 - [Alex Smola](https://alex.smola.org/) 
