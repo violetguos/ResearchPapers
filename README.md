@@ -299,6 +299,12 @@ Papers for myself to read
 
 ## Gaussian Processes
 
+### Variational Inference
+- **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
+
+### Latent Dirichlet Allocation
+- **Latent Dirichlet Allocation** (2003), David Blei [[pdf]](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
+
 ## Probabilitistic Graphical Models
 
 ## Reinforcement Learning
