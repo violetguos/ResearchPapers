@@ -300,6 +300,7 @@ Papers for myself to read
 ## Gaussian Processes
 
 ### Variational Inference
+- **An Introduction to Variational Methods for Graphical Models** (1999), Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
 
 ### Latent Dirichlet Allocation
