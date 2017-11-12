@@ -300,7 +300,8 @@ Papers for myself to read
 ## Gaussian Processes
 
 ### Variational Inference
-- ** Keeping the neural networks simple by minimizing the description length of the weights** (1993), Hinton [[pdf]] (https://dl.acm.org/citation.cfm?id=168306)
+- **A Mean Field Theory Learning Algorithm for Neural Networks** (1987), Carsten Peterson [[pdf]] (http://www.complex-systems.com/pdf/01-5-6.pdf)
+- **Keeping the neural networks simple by minimizing the description length of the weights** (1993), Hinton [[pdf]] (https://dl.acm.org/citation.cfm?id=168306)
 - **Variational Learning and Bits-Back Coding: An Information-Theoretic View to Bayesian Learning** (2004), Antti Honkela [[pdf]](http://www.cis.hut.fi/cis/projects/bayes/papers/files/Honkela04TNN.pdf)
 - **An Introduction to Variational Methods for Graphical Models** (1999), Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
