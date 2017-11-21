@@ -14,6 +14,7 @@ Papers for myself to read
 - [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning)
 - [Random Forest](https://github.com/kjw0612/awesome-random-forest)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
 - [Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Courses](https://github.com/prakhar1989/awesome-courses)
 <!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
