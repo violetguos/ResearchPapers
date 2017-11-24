@@ -79,3 +79,6 @@ TitleOfTopicThatThesePapersAreAbout
                 - Gradient variational complexity gain
                 - Variational Information Maximizing Exploration
                 - L2 Gain
+
+## Bandits Evaluation
+- [Data-driven evaluation of Contextual Bandit algorithms and applications to Dynamic Recommendation](https://hal.archives-ouvertes.fr/tel-01297407/document)
