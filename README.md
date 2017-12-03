@@ -247,6 +247,9 @@ Papers for myself to read
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
 
+## Deep Learning
+- ** On the Origin of Deep Learning ** (2017), Haohan Wang [[pdf]] (https://arxiv.org/pdf/1702.07800.pdf)
+
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
 
 ## Recommendation Systems
@@ -274,6 +277,9 @@ Papers for myself to read
 - **Survey on the attention based RNN model and its applications in computer vision** (2016), Feng Wang et al. [[pdf]](https://arxiv.org/pdf/1601.06823v1.pdf)
 
 - **Salient Object Detection: A Survey** (2014), Ali et al. [[pdf]](https://arxiv.org/pdf/1411.5878v4.pdf)
+
+## Natural Language Processing
+- ** Neural Machine Translation and Sequence-to-sequence Models: A Tutorial ** (2017), Graham [[pdf]] (https://arxiv.org/pdf/1703.01619v1.pdf)
 
 <!--------------------------------------------------- PAPERS -------------------------------------------------->
 # Papers 
@@ -359,6 +365,9 @@ Papers for myself to read
 ## Recommendation Systems
 
 ## Computer Vision
+
+### Object Detection
+- **Deep Neural Networks for Object Detection** (2013), Christian Szegedy et al. [[pdf]] (https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) 
 
 ### Image Segmentation
 
