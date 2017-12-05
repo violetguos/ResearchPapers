@@ -141,6 +141,9 @@ Papers for myself to read
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
 - [MIT 9.520 Statistical Learning Theory and Applications by Lorenso Rosasco Fall 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O) 
 
+## Dynamic Programming
+- [Dynamic Programming By Bertsekas](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) 
+
 ## Neural Networks
 - [CSC321 Coursera by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 - [Deep Learning Summer School Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
