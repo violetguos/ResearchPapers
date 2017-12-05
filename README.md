@@ -143,6 +143,7 @@ Papers for myself to read
 
 ## Dynamic Programming
 - [Dynamic Programming By Bertsekas](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) 
+- [Bertsekas](http://www.mit.edu/~dimitrib/Dynamic_Prog_Videos.html) 
 
 ## Neural Networks
 - [CSC321 Coursera by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
