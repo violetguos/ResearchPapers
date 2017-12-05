@@ -139,7 +139,7 @@ Papers for myself to read
 - [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
 - [CMU 10715 Advanced Introduction to Machine Learning by Alexander Smola Fall 2015](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
-
+- [MIT 9.520 Statistical Learning Theory and Applications by Lorenso Rosasco Fall 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O) 
 
 ## Neural Networks
 - [CSC321 Coursera by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
@@ -188,6 +188,9 @@ Papers for myself to read
 - [MIT Deep Learning For Self Driving Car Winter 2017](http://selfdrivingcars.mit.edu/)
 
 # Courses (Just notes, no videos)
+
+## Statistical Learning Theory 
+- [MIT 9.520 Fall 2017](http://www.mit.edu/~9.520/fall17/) 
 
 ## Reinforcement Learning
 - [CMU 10703 RL by Ruslan](https://katefvision.github.io/)
