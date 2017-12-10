@@ -100,7 +100,7 @@ Papers for myself to read
 - [Neil Lawrence](http://inverseprobability.com/)
 
 ## Variational Inference
-- [Matthew Hoffman] (http://matthewdhoffman.com/) 
+- [Matthew Hoffman](http://matthewdhoffman.com/) 
 
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
