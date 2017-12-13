@@ -250,6 +250,7 @@ Papers for myself to read
 - [Optimizing Expectations From Deep Reinforcement Learning To Stochastic Computation Graphs by John Schulman](http://joschu.net/docs/thesis.pdf)
 - [SECOND-ORDER OPTIMIZATION FOR NEURAL NETWORKS by James Marten](http://www.cs.toronto.edu/~jmartens/docs/thesis_phd_martens.pdf)
 - [Temporal Credit Assignment in Reinforcement Learning by Richard Sutton](https://search.proquest.com/docview/303321395)
+- [DEEP LEARNING FOR ROBOTICS](https://www.cs.stanford.edu/people/asaxena/papers/ianlenz_phdthesis.pdf)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
