@@ -289,6 +289,7 @@ Papers for myself to read
 ## Natural Language Processing
 - ** Neural Machine Translation and Sequence-to-sequence Models: A Tutorial ** (2017), Graham [[pdf]] (https://arxiv.org/pdf/1703.01619v1.pdf)
 
+
 <!--------------------------------------------------- PAPERS -------------------------------------------------->
 # Papers 
 ## Deep Learning
@@ -307,14 +308,29 @@ Papers for myself to read
 ### Fully-Connected Neural Networks
 
 ### Convolutional Neural Networks
+- ** Gradient-Based Learning Applied To Document Recognition** (1998) LeCun [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 
 ### Recurrent Neural Networks
+- ** A Neural Probabilistic Language Model** (2003) Yoshua Bengio [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- ** Reducing the dimensionality of data with Neural Networks** (2006) Hinton [[pdf]] (https://www.cs.toronto.edu/~hinton/science.pdf)
+- **Recurrent neural network based language model** (2010) Mikolov [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
+- **Joint Language and Translation Modelling with Recurrent Neural Networks** (2013) Auli (https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EMNLP2013RNNMT.pdf)
+- **Recurrent Continuous Translation Models** (2013) Klachbrenner (http://www.aclweb.org/anthology/D13-1176)
+- **Learning Phrase Representations using RNN Encoder–Decoder
+for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arxiv.org/pdf/1406.1078.pdf)
 
 #### Long Short Term Memory
 - ** LONG SHORT-TERM MEMORY ** (1991), Sepp Hochreiter [[pdf]] (http://www.bioinf.jku.at/publications/older/2604.pdf)
 - ** Learning to Forget:Continual Prediction with LSTM ** (1999), Felix et. al [[pdf]] (http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
 - ** LSTM: A Search Space Odyssey ** (2015), Klaus Greff (https://arxiv.org/abs/1503.04069)
-- ** Sequence to Sequence Learning with Neural Networks ** (2014) (https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
+#### Sequence to Sequence
+- ** Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever (https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
+#### Attention Models
+- **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** (2015) Dzmitry [[pdf]] (https://arxiv.org/pdf/1409.0473.pdf)
+
+
 
 ### Generative Adversarial Networks
 
@@ -366,8 +382,6 @@ Papers for myself to read
 
 ## Exploration vs Exhaustation 
 
-## Attention Models
-
 # Applications
 
 ## Recommendation Systems
@@ -382,8 +396,6 @@ Papers for myself to read
 ## Natural Language Processing
 
 ### Word Representation 
-
-
 
 ### Question Answering
 
