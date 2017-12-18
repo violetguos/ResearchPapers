@@ -324,6 +324,9 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - ** Learning to Forget:Continual Prediction with LSTM ** (1999), Felix et. al [[pdf]] (http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
 - ** LSTM: A Search Space Odyssey ** (2015), Klaus Greff (https://arxiv.org/abs/1503.04069)
 
+#### Bi-directional Recurrent Neural Network
+- ** Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
+
 #### Sequence to Sequence
 - ** Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever (https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
