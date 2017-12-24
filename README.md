@@ -152,6 +152,7 @@ Papers for myself to read
 - [University of Amsterdam Deep Learning Course](http://uvadlc.github.io/) 
 - [Bay Area Deep Learning School at CEMEX 2016](https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos)
 - [STA946 Deep Learning by Ali Ghodsi](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) 
+- [NYU Deep Learning by Yann Lecunn 2014](https://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 
 ## Gaussian Process
 - [Gaussian Process Summer School 2017](https://www.youtube.com/playlist?list=PLpTp0l_CVmgwyAthrUmmdIFiunV1VvicM)
