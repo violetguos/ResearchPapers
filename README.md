@@ -203,7 +203,8 @@ Papers for myself to read
 - [All of David Blei Courses](http://www.cs.columbia.edu/~blei/courses.html)
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
 
-
+## Deep Learning
+- [CUHK ELEG5040 Introduction to Deep Learning](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
 ## Deep Learning, University of Toronto
 - [ECE521 Inference Algorithm and Machine Learning by Jimmy Ba Winter 2017](https://ece521.github.io/)
 - [CSC2541 Scalable and Flexible Models of Uncertainty by Roger Fall 2017](https://csc2541-f17.github.io/)
