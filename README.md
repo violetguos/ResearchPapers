@@ -17,6 +17,7 @@ Papers for myself to read
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
 - [Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Courses](https://github.com/prakhar1989/awesome-courses)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 <!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
 
 # Researchers
