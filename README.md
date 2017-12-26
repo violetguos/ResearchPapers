@@ -326,6 +326,7 @@ Papers for myself to read
 #### Activation Function
 - **Rectified Linear Units Improve Restricted Boltzmann Machines** (2010), Vinod [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf)
 - **Deep Sparse Rectifier Neural Networks** (2011), Xavier [[pdf]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+- **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization** (2011), John Duchi [[pdf]](http://jmlr.org/papers/v12/duchi11a.html)
 - **Rectifier Nonlinearities Improve Neural Network Acoustic Models** (2013), Andrew Maas [[pdf]](https://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf)
 - **Maxout Networks** (2013), Ian Goodfellow [[pdf]](https://arxiv.org/abs/1302.4389)
 - **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
