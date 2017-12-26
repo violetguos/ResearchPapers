@@ -322,7 +322,7 @@ Papers for myself to read
 
 ### Recurrent Neural Networks
 - ** A Neural Probabilistic Language Model** (2003) Yoshua Bengio [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-- ** Reducing the dimensionality of data with Neural Networks** (2006) Hinton [[pdf]] (https://www.cs.toronto.edu/~hinton/science.pdf)
+- ** Reducing the dimensionality of data with Neural Networks** (2006) Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
 - **Recurrent neural network based language model** (2010) Mikolov [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
 - **Joint Language and Translation Modelling with Recurrent Neural Networks** (2013) Auli (https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EMNLP2013RNNMT.pdf)
 - **Recurrent Continuous Translation Models** (2013) Klachbrenner (http://www.aclweb.org/anthology/D13-1176)
