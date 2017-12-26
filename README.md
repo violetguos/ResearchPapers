@@ -6,6 +6,7 @@ Papers for myself to read
 # Existing Repos:
 - [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Meta Learning](https://github.com/songrotek/Meta-Learning-Papers)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Recurrent Neural Network](https://github.com/kjw0612/awesome-rnn)
@@ -322,8 +323,8 @@ Papers for myself to read
 - **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
 - **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 - **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
-- **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
-
+- **Batch Normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
+- **Layer Normalization** (2016), Jimmy Ba [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)
 
 ### Fully-Connected Neural Networks
 
@@ -337,6 +338,7 @@ Papers for myself to read
 - **Deep Residual Learning For Image Recognition** (2015) Kaiming He [[pdf]](https://arxiv.org/abs/1512.03385)
 - **Highway Networks** (2015) Rupesh [[pdf]](https://arxiv.org/abs/1505.00387)
 - **Densely Connected Convolutional Networks** (2016) Gao Huang [[pdf]](https://arxiv.org/abs/1608.06993)
+- **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size** (2016) Forrest [[pdf]](https://arxiv.org/abs/1602.07360)
 
 ### Recurrent Neural Networks
 - ** A Neural Probabilistic Language Model** (2003) Yoshua Bengio [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
@@ -360,7 +362,6 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 
 #### Attention Models
 - **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** (2015) Dzmitry [[pdf]] (https://arxiv.org/pdf/1409.0473.pdf)
-
 
 
 ### Generative Adversarial Networks
@@ -438,5 +439,14 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 ### Word Representation 
 
 ### Question Answering
+
+### Speech Recognition
+- **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups** (2012) Hinton [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf)
+- **Speech Recognition with Deep Recurrent Neural Networks** (2013) Alex Graves [[pdf]](https://arxiv.org/abs/1303.5778)
+- **Towards End-to-End Speech Recognition with Recurrent Neural Networks** (2014) Alex Graves [[pdf]](http://proceedings.mlr.press/v32/graves14.pdf)
+- **Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition** (2015) Hasim Sak [[pdf]](https://arxiv.org/pdf/1507.06947.pdf)
+- **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin** (2015) Baidu Research [[pdf]](https://arxiv.org/pdf/1512.02595.pdf)
+- **ACHIEVING HUMAN PARITY IN CONVERSATIONAL SPEECH RECOGNITION** (2016) W Xiong [[pdf]](https://arxiv.org/pdf/1610.05256v1.pdf)
+
 
 ## Self-Driving Cars
