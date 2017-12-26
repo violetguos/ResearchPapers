@@ -311,7 +311,15 @@ Papers for myself to read
 ### Fully-Connected Neural Networks
 
 ### Convolutional Neural Networks
-- ** Gradient-Based Learning Applied To Document Recognition** (1998) LeCun [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+- **Gradient-Based Learning Applied To Document Recognition** (1998) LeCun [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+- **A Guide to Convolutional Arithmetic For Deep Learning** (2016) Vincent [[pdf]](https://arxiv.org/abs/1603.07285)
+- ** ImageNet Classification With Deep Convolutional Neural Networks** (2012) Alex [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- **Visualizing and Understanding Convolutional Neural Networks** (2013) Matthew Zeiler [[pdf]](https://arxiv.org/abs/1311.2901)
+- **Very Deep Convolutional Networks for Large Scale Image Recognition** (2014) Karen [[pdf]](https://arxiv.org/abs/1409.1556) 
+- **Going Deeper with Convolutions** (2014) Christian Szegedy [[pdf]](https://arxiv.org/abs/1409.4842)
+- **Deep Residual Learning For Image Recognition** (2015) Kaiming He [[pdf]](https://arxiv.org/abs/1512.03385)
+- **Highway Networks** (2015) Rupesh [[pdf]](https://arxiv.org/abs/1505.00387)
+- **Densely Connected Convolutional Networks** (2016) Gao Huang [[pdf]](https://arxiv.org/abs/1608.06993)
 
 ### Recurrent Neural Networks
 - ** A Neural Probabilistic Language Model** (2003) Yoshua Bengio [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
