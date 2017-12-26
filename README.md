@@ -317,6 +317,7 @@ Papers for myself to read
 ## Deep Learning
 
 ### Training and Optimization
+- **Understanding the difficulty of training deep feedforward neural networks** (2010) Xavier [[pdf]](http://proceedings.mlr.press/v9/glorot10a.html)
 - **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **On the importance of initialization and momentum in deep learning** (2013), Ilya Sutskever [[pdf]](http://proceedings.mlr.press/v28/sutskever13.pdf)
