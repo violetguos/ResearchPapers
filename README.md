@@ -382,6 +382,7 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **Latent Dirichlet Allocation** (2003), David Blei [[pdf]](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
 
 ## Probabilitistic Graphical Models
+- **Statistical inference with probabilistic graphical models** (2014), Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
