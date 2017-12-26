@@ -362,7 +362,9 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - ** Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever (https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 #### Attention Models
-- **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** (2015) Dzmitry [[pdf]] (https://arxiv.org/pdf/1409.0473.pdf)
+- **Recurrent Models of Visual Attention** (2014) Mnih [[pdf]](https://arxiv.org/abs/1406.6247)
+- **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** (2015) Dzmitry [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
+
 
 
 ### Generative Adversarial Networks
