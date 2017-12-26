@@ -333,7 +333,7 @@ Papers for myself to read
 - **ADADELTA: An Adaptive Learning Rate Method** (2012), Matt Zeiler [[pdf]](https://arxiv.org/abs/1212.5701)
 - **No More Pesky Learning Rates** (2013), Tom Schaul [[pdf]](https://arxiv.org/pdf/1206.1106.pdf)
 - **On the importance of initialization and momentum in deep learning** (2013), Ilya Sutskever [[pdf]](http://proceedings.mlr.press/v28/sutskever13.pdf)
-- **RMSProp CSC321 Lecture 6** (2014), Hinton [[pdf]](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+- **RMSProp CSC321 Lecture 6e** (2014), Hinton [[pdf]](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 - **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
 
 #### Activation Function
