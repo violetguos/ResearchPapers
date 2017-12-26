@@ -324,6 +324,9 @@ Papers for myself to read
 - **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 
 #### Activation Function
+- **Rectified Linear Units Improve Restricted Boltzmann Machines** (2010), Vinod [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf)
+- **Deep Sparse Rectifier Neural Networks** (2011), Xavier [[pdf]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+- **Maxout Networks** (2013), Ian Goodfellow [[pdf]](https://arxiv.org/abs/1302.4389)
 - **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 
 #### Normalization
@@ -352,6 +355,7 @@ Papers for myself to read
 - **Going Deeper with Convolutions** (2014) Christian Szegedy [[pdf]](https://arxiv.org/abs/1409.4842)
 - **Deep Residual Learning For Image Recognition** (2015) Kaiming He [[pdf]](https://arxiv.org/abs/1512.03385)
 - **Highway Networks** (2015) Rupesh [[pdf]](https://arxiv.org/abs/1505.00387)
+- **Xception: Deep Learning with Depthwise Separable Convolutions** (2016) Francois Chollet [[pdf]](https://arxiv.org/abs/1610.02357)
 - **Densely Connected Convolutional Networks** (2016) Gao Huang [[pdf]](https://arxiv.org/abs/1608.06993)
 - **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size** (2016) Forrest [[pdf]](https://arxiv.org/abs/1602.07360)
 
