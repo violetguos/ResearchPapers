@@ -402,7 +402,13 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 ## Computer Vision
 
 ### Object Detection
-- **Deep Neural Networks for Object Detection** (2013), Christian Szegedy et al. [[pdf]] (https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) 
+- **Rich feature hierarchies for accurate object detection and semantic segmentation** (2013), Ross Girshick [[pdf]](https://arxiv.org/abs/1311.2524)
+- **Deep Neural Networks for Object Detection** (2013), Christian Szegedy et al. [[pdf]](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) 
+- **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition** (2014), Kaiming He [[pdf]](https://arxiv.org/abs/1406.4729)
+- **Fast R-CNN** (2015), Kaiming He [[pdf]](https://arxiv.org/abs/1504.08083) 
+- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015), Shaoqing Ren [[pdf]](https://arxiv.org/abs/1506.01497)
+- **R-FCN: Object Detection via Region-based Fully Convolutional Networks** (2016), Jifeng Dai [[pdf]](https://arxiv.org/abs/1605.06409)
+- **Mask R-CNN** (2017), Kaiming He [[pdf]](https://arxiv.org/abs/1703.06870)
 
 ### Image Segmentation
 
