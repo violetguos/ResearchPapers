@@ -231,28 +231,46 @@ Papers for myself to read
 <!--------------------------------------------------- THESIS -------------------------------------------------->
 
 # Thesis
-- [Bayesian Methods for Adaptive Model by David Mackay](http://www.inference.org.uk/mackay/PhD.html)
-- [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
-- [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
-- [Deep Learning Representation and Its Application To Computer Vision by Ian Goodfellow](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/11674/Goodfellow_Ian_2014_these.pdf?sequence=4)
-- [Learning Deep Generative Models by Ruslan](https://tspace.library.utoronto.ca/bitstream/1807/19226/3/Salakhutdinov_Ruslan_R_200910_PhD_thesis.pdf) 
-- [Shaping and Policy Search In Reinforcement Learning by Andrew Ng 2003](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf)
 - [Exploring Deep Learning Methods for Discovering Features in Speech Signals by Jaitly](http://www.cs.toronto.edu/~ndjaitly/Jaitly_Navdeep_201411_PhD_thesis.pdf)
-- [Training Recurrent Neural Networks By Ilya](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) 
 - [Deep Learning Approaches to Problems in Speech Recognition, Computational Chemistry, and Natural Language Text Processing by George Edward Dahl](https://www.cs.toronto.edu/~gdahl/papers/Dahl_George_E_201506_PhD_thesis.pdf)
-- [Learning Deep Generative Models by Ruslan](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.1804&rep=rep1&type=pdf) 
 - [Optimizing Neural Networks that Generate Images by Tijmen](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf)
-- [Bayesian Learning for Neural Networks By Radford](http://www.cs.toronto.edu/~radford/ftp/thesis.pdf)
 - [Machine Learning for Aerial Image Labeling by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
-- [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
 - [Beyond Affinity Propagation: Message Passing Algorithms for Clustering by Inmar Givoni](http://www.psi.toronto.edu/publications/2011/Givoni_Inmar_E_201206_PhD_thesis.pdf)
 - [Learning Probabilistic Models for Visual Motion by David Ross](http://www.cs.toronto.edu/~dross/phd/Ross_David_A_200811_PhD_thesis.pdf)
 - [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
-- [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
-- [Optimizing Expectations From Deep Reinforcement Learning To Stochastic Computation Graphs by John Schulman](http://joschu.net/docs/thesis.pdf)
-- [SECOND-ORDER OPTIMIZATION FOR NEURAL NETWORKS by James Marten](http://www.cs.toronto.edu/~jmartens/docs/thesis_phd_martens.pdf)
+
+## Neural Networks
+- [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
+
+## Generative Models
+- [Learning Deep Generative Models by Ruslan](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.1804&rep=rep1&type=pdf) 
+
+## Bayesian Learning
+- [Bayesian Learning for Neural Networks By Radford](http://www.cs.toronto.edu/~radford/ftp/thesis.pdf)
+- [Bayesian Methods for Adaptive Model by David Mackay](http://www.inference.org.uk/mackay/PhD.html)
+- [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+- [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
+
+## Reinforcement Learning
 - [Temporal Credit Assignment in Reinforcement Learning by Richard Sutton](https://search.proquest.com/docview/303321395)
+- [Shaping and Policy Search In Reinforcement Learning by Andrew Ng 2003](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf)
+- [Optimizing Expectations From Deep Reinforcement Learning To Stochastic Computation Graphs by John Schulman](http://joschu.net/docs/thesis.pdf)
+
+## Optimization
+- [SECOND-ORDER OPTIMIZATION FOR NEURAL NETWORKS by James Marten](http://www.cs.toronto.edu/~jmartens/docs/thesis_phd_martens.pdf)
+
+## Computer Vision
+- [Deep Learning Representation and Its Application To Computer Vision by Ian Goodfellow](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/11674/Goodfellow_Ian_2014_these.pdf?sequence=4)
+
+## Recurrent Neural Networks
+- [Supervised Sequence Labelling with Recurrent Neural Networks 2008](http://www.cs.toronto.edu/~graves/preprint.pdf)
+- [STATISTICAL LANGUAGE MODELS BASED ON NEURAL NETWORKS By Thomas Mikolov 2012](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
+- [Training Recurrent Neural Networks By Ilya 2013](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) 
+- [RECURSIVE DEEP LEARNING FOR NATURAL LANGUAGE PROCESSING AND COMPUTER VISION By Richard Socher 2014](https://nlp.stanford.edu/~socherr/thesis.pdf)
+- [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
+
+## Robotics
 - [DEEP LEARNING FOR ROBOTICS](https://www.cs.stanford.edu/people/asaxena/papers/ianlenz_phdthesis.pdf)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
