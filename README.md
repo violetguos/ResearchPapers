@@ -290,7 +290,7 @@ Papers for myself to read
 - **Salient Object Detection: A Survey** (2014), Ali et al. [[pdf]](https://arxiv.org/pdf/1411.5878v4.pdf)
 
 ## Natural Language Processing
-- ** Neural Machine Translation and Sequence-to-sequence Models: A Tutorial ** (2017), Graham [[pdf]] (https://arxiv.org/pdf/1703.01619v1.pdf)
+- **Neural Machine Translation and Sequence-to-sequence Models: A Tutorial** (2017), Graham [[pdf]](https://arxiv.org/pdf/1703.01619v1.pdf)
 
 
 <!--------------------------------------------------- PAPERS -------------------------------------------------->
@@ -298,14 +298,13 @@ Papers for myself to read
 ## Deep Learning
 
 ### Training and Optimization
-- **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
-- **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
-- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
+- **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
+- **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
-- **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
-- **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]]\
-(http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
+- **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
+- **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
 
 
 ### Fully-Connected Neural Networks
