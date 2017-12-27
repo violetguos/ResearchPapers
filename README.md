@@ -334,6 +334,7 @@ Papers for myself to read
 - **Self-Normalizing Neural Networks** (2017), Gunter [[pdf]](https://arxiv.org/abs/1706.02515)
 
 #### Normalization
+- **A Literature Survey on Domain Adaptation of Statistical Classifiers** (2008), Jiang [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.7952&rep=rep1&type=pdf)
 - **Batch Normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
 - **Layer Normalization** (2016), Jimmy Ba [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)
 
