@@ -331,7 +331,7 @@ Papers for myself to read
 - **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 - **Zero-bias autoencoders and the benefits of co-adapting features** (2015), Kishore [[pdf]](https://arxiv.org/abs/1402.3337)
 - **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)** (2016), Clevert [[pdf]](https://arxiv.org/abs/1511.07289)
-
+- **Self-Normalizing Neural Networks** (2017), Gunter [[pdf]](https://arxiv.org/abs/1706.02515)
 
 #### Normalization
 - **Batch Normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
