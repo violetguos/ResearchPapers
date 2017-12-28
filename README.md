@@ -170,7 +170,7 @@ Papers for myself to read
 - [EE364b Convex Optimization 2 by Stephen Boyd 2008](https://stanford.edu/class/ee364b/videos.html)
 
 ## Information Theory
-- [Information Theory by Mackay](http://videolectures.net/mackay_course_01/)
+- [Information Theory by Mackay](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
 
 ## Reinforcement Learning
 - [Deep Reinforcement BootCamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
