@@ -32,6 +32,7 @@ Papers for myself to read
 - [Samy Bengio](http://bengio.abracadoudou.com/)
 - [Aaron Courville](https://aaroncourville.wordpress.com/)
 - [Jimmy Ba](https://jimmylba.github.io/) 
+- [Pascal Vincent](http://www.iro.umontreal.ca/~vincentp/)
 
 ### Deep Boltzmann Machine
 - [Ruslan](http://www.cs.toronto.edu/~rsalakhu/publications.html)
@@ -320,6 +321,7 @@ Papers for myself to read
 - **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
 #### Initialization
+- **Why Does Unsupervised Pre-training Help Deep Learning?** (2010) Dumitru Erhan [[pdf]](http://www.jmlr.org/papers/v11/erhan10a.html)
 - **Understanding the difficulty of training deep feedforward neural networks** (2010) Xavier [[pdf]](http://proceedings.mlr.press/v9/glorot10a.html)
 - **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 
@@ -349,6 +351,17 @@ Papers for myself to read
 #### Regularization
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+
+### AutoEncoders
+- **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993), Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
+- **. Reducing the dimensionality of data with neural networks** (2006), Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
+- **Extracting and composing robust features with denoising autoencoders** (2008), Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
+- **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010), Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
+
+### Deep Belief Networks
+- **A fast learning algorithm for deep belief nets.** (2006), Geoffrey Hinton [[pdf]](https://www.ncbi.nlm.nih.gov/pubmed/16764513)
+- **Greedy Layer-Wise Training of Deep Networks** (2006), Yoshua Bengio [[pdf]](https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks)
+- **Sparse feature learning for deep belief networks** (2007), Marc Ranzato [[pdf]](https://dl.acm.org/citation.cfm?id=2981711)
 
 ### Fully-Connected Neural Networks
 
