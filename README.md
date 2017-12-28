@@ -355,13 +355,23 @@ Papers for myself to read
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993), Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
 - **. Reducing the dimensionality of data with neural networks** (2006), Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
+#### Denoising AutoEncoders
 - **Extracting and composing robust features with denoising autoencoders** (2008), Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010), Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
 
-### Deep Belief Networks
+### Restricted Boltzman Machines
+- **Restricted Boltzmann Machines for Collaborative Filtering** (2007), Ruslan Salakhutdinov [[pdf]](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
+- **Classification using Discriminative Restricted Boltzmann Machines** (2008), Hugo Larochelle [[pdf]](http://machinelearning.org/archive/icml2008/papers/601.pdf)
+- **An Introduction to Restricted Boltzmann Machines** (2012), Asja [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-642-33275-3_2?LI=true)
+- **Training restricted Boltzmann machines: An introduction** (2014), Asja [[pdf]](http://www.sciencedirect.com/science/article/pii/S0031320313002495)
+
+#### Deep Belief Networks
 - **A fast learning algorithm for deep belief nets.** (2006), Geoffrey Hinton [[pdf]](https://www.ncbi.nlm.nih.gov/pubmed/16764513)
 - **Greedy Layer-Wise Training of Deep Networks** (2006), Yoshua Bengio [[pdf]](https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks)
 - **Sparse feature learning for deep belief networks** (2007), Marc Ranzato [[pdf]](https://dl.acm.org/citation.cfm?id=2981711)
+
+### Deep Boltzmann Machines
+- **Deep Boltzmann Machines** (2009) Ruslan Salakhutdinov [[pdf]](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
 
 ### Fully-Connected Neural Networks
 
@@ -417,6 +427,9 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 
 ### Latent Dirichlet Allocation
 - **Latent Dirichlet Allocation** (2003), David Blei [[pdf]](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
+
+### Bayesian Nonparametrics
+- **Hierarchical Bayesian Nonparametric Models with Applications** (2009), Yee Whye Teh [[pdf]](https://www.stats.ox.ac.uk/~teh/research/npbayes/TehJor2010a.pdf)
 
 ## Probabilitistic Graphical Models
 - **Statistical inference with probabilistic graphical models** (2014), Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
