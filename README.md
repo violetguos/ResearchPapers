@@ -352,6 +352,10 @@ Papers for myself to read
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
+#### Saddle Point
+- **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014), Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
+- **The Loss Surfaces of Multilayer Networks** (2014), Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
+
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993), Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
 - **. Reducing the dimensionality of data with neural networks** (2006), Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
