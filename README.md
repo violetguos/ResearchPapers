@@ -24,6 +24,7 @@ Papers for myself to read
 # Researchers
 ## Optimization
 - [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
+- [Stephen Boyd](http://stanford.edu/~boyd/)
 - [James Marten](http://www.cs.toronto.edu/~jmartens/research.html)
 
 ## Machine Learning
