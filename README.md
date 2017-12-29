@@ -22,6 +22,10 @@ Papers for myself to read
 <!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
 
 # Researchers
+## Optimization
+- [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
+- [James Marten](http://www.cs.toronto.edu/~jmartens/research.html)
+
 ## Machine Learning
 - [Andrew Ng](http://www.andrewng.org/)
 
