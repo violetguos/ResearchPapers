@@ -78,6 +78,7 @@ Papers for myself to read
 - [John Schulman](http://joschu.net/)
 - [Csaba Szepesvári]( https://sites.ualberta.ca/~szepesva/)
 - [Tom Schaul](http://schaul.site44.com/)
+- [Shang Tong Zhang](http://shangtongzhang.github.io/)
 
 ## Generative Models
 - [Ian Goodfellow](http://www.iangoodfellow.com/) 
@@ -210,6 +211,7 @@ Papers for myself to read
 
 ## Bayesian Learning
 - [All of David Blei Courses](http://www.cs.columbia.edu/~blei/courses.html)
+- [Foundations of Graphical Models by David Blei](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
 
 ## Deep Learning
