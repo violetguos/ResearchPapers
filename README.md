@@ -511,21 +511,33 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI), Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 
 ### Deep Neural Networks
+- **Deep content-based music recommendation** (2013, NIPS), Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
 - **Deep Neural Networks for YouTube Recommendations** (2016, RecSys), Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
 - **Wide & Deep Learning for Recommender Systems** (2016, RecSys), Cheng [[pdf]](https://arxiv.org/abs/1606.07792)
 
-### Collaborative Auto Encoder
+### Restricted Boltzmann Machines
+- **Restricted Boltzmann machines for collaborative filtering** (2007, ICML), Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
+- **Improving Content-based and Hybrid Music Recommendation using Deep Learning** (2014, MM), Xinxi Wang [[pdf]](https://dl.acm.org/citation.cfm?id=2654940)
+
+### AutoEncoder 
+- **Collaborative Deep Learning for Recommender Systems** (2015, KDD), Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
 - **AutoRec: Autoencoders Meet Collaborative Filtering** (2015, WWW), Sedhain [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
+
+#### Denoising AutoEncoders
 - **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM), Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837)
 
-### Collaborative Restricted Boltzmann Machines
-- **Restricted Boltzmann machines for collaborative filtering** (2007, ICML), Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
+### Recurrent Neural Networks 
+- **Session-based Recommendations with Recurrent Neural Networks** (2016, ICLR) Balazs Hidasi [[pdf]](https://arxiv.org/abs/1511.06939)
+
+### Convolutional Neural Networks
+- **Image-based Recommendations on Styles and Substitutes** (2015, SIGIR) Julian McAuley [[pdf]](https://arxiv.org/abs/1506.04757)
+- **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** (2016, AAAI) Ruining He [[pdf]](https://arxiv.org/abs/1510.01784)
+
+### Deep Semantic Similarity Model 
+- **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** (2015, WWW) Ali Elkahk [[pdf]](https://dl.acm.org/citation.cfm?id=2741667)
 
 ### Autoregressive Networks
 - **(CF-NADE) A Neural Autoregressive Approach to Collaborative Filtering** (2016, ICML), Yin Zheng [[pdf]](https://arxiv.org/abs/1605.09477)
-
-### Collaborative Deep Learning
-- **Collaborative Deep Learning for Recommender Systems** (2015, KDD), Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
 
 ### Something To Vec
 - **(prod2vec) E-commerce in Your Inbox: Product Recommendations at ScaleA** (2015, KDD), Mihajlo [[pdf]](https://dl.acm.org/citation.cfm?id=2788627)
@@ -533,12 +545,17 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **Item2Vec: Neural Item Embedding for Collaborative Filtering** (2016), Oren [[pdf]](https://arxiv.org/abs/1603.04259)
 - **node2vec: Scalable Feature Learning for Networks** (2016, KDD), Aditya [[pdf]](https://snap.stanford.edu/node2vec/)
 
-### Session Based Recommendation
-- **Session-based Recommendations with Recurrent Neural Networks** (2016, ICLR) Balazs Hidasi [[pdf]](https://arxiv.org/abs/1511.06939)
-
 ### Multi-domain Collaborative Filtering 
 - **Multi-Domain Collaborative Filtering** (2010, UAI) Yu Zhang [[pdf]](https://arxiv.org/abs/1203.3535)
-- **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** (2015, WWW) Ali Elkahk [[pdf]](https://dl.acm.org/citation.cfm?id=2741667)
+
+### Applications
+#### Music Recommendation
+#### Image Recommendation
+#### Point of Interest Recommendation
+#### News Recommendation
+#### Hashtag Recommendation
+#### Quote Recommmendation
+#### Citation Recommendation
 
 ## Information Retrieval
 
