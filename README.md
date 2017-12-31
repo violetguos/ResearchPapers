@@ -496,7 +496,8 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **Social collaborative filtering for cold-start recommendations** (2014, RecSys) [[pdf]](https://dl.acm.org/citation.cfm?id=2645772)
 
 ### Matrix Factorization
-- **Matchbox: Large Scale Bayesian Recommendations** (2009), David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
+- **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW), David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
+- **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI), Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 
 ### Deep Neural Networks
 - **Deep Neural Networks for YouTube Recommendations** (2016, RecSys), Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
@@ -504,6 +505,7 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 
 ### Collaborative Auto Encoder
 - **AutoRec: Autoencoders Meet Collaborative Filtering** (2015, WWW), Sedhain [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
+- **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM), Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837)
 
 ### Collaborative Restricted Boltzmann Machines
 - **Restricted Boltzmann machines for collaborative filtering** (2007, ICML), Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
@@ -521,10 +523,9 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **node2vec: Scalable Feature Learning for Networks** (2016, KDD), Aditya [[pdf]](https://snap.stanford.edu/node2vec/)
 
 ### Session Based Recommendation
-- 
+- **Session-based Recommendations with Recurrent Neural Networks** (2016, ICLR) Balazs Hidasi [[pdf]](https://arxiv.org/abs/1511.06939)
 
 ### Multi-domain Learning
-- 
 
 ## Information Retrieval
 
