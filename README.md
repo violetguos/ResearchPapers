@@ -1,5 +1,8 @@
 Papers for myself to read
 
+Science direct automatically gives you link to the references
+- [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0893608014002135)
+
 # Blogs 
 - [Deep Learning Reading List](http://deeplearning.net/reading-list/)
 
@@ -336,6 +339,9 @@ Papers for myself to read
 ### Training and Optimization
 - **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
+#### Universal Approximators
+- **Multilayer Feedforward Networks are Universal Approximators** (1989) Kurt [[pdf]](https://www.sciencedirect.com/science/article/pii/0893608089900208)
+
 #### Initialization
 - **Why Does Unsupervised Pre-training Help Deep Learning?** (2010) Dumitru Erhan [[pdf]](http://www.jmlr.org/papers/v11/erhan10a.html)
 - **Understanding the difficulty of training deep feedforward neural networks** (2010) Xavier [[pdf]](http://proceedings.mlr.press/v9/glorot10a.html)
@@ -514,6 +520,7 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **Deep content-based music recommendation** (2013, NIPS), Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
 - **Deep Neural Networks for YouTube Recommendations** (2016, RecSys), Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
 - **Wide & Deep Learning for Recommender Systems** (2016, RecSys), Cheng [[pdf]](https://arxiv.org/abs/1606.07792)
+- **Embedding-based News Recommendation for Millions of Users** (2017, RecSys), Shumpei Okura [[pdf]](http://www.kdd.org/kdd2017/papers/view/embedding-based-news-recommendation-for-millions-of-users)
 
 ### Restricted Boltzmann Machines
 - **Restricted Boltzmann machines for collaborative filtering** (2007, ICML), Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
