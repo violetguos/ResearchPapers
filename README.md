@@ -496,6 +496,7 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **Social collaborative filtering for cold-start recommendations** (2014, RecSys) [[pdf]](https://dl.acm.org/citation.cfm?id=2645772)
 
 ### Matrix Factorization
+- **Probabilistic Matrix Factorization** (2008, NIPS) Ruslan Salakhutdinov [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW), David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI), Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 
@@ -525,7 +526,9 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 ### Session Based Recommendation
 - **Session-based Recommendations with Recurrent Neural Networks** (2016, ICLR) Balazs Hidasi [[pdf]](https://arxiv.org/abs/1511.06939)
 
-### Multi-domain Learning
+### Multi-domain Collaborative Filtering 
+- **Multi-Domain Collaborative Filtering** (2010, UAI) Yu Zhang [[pdf]](https://arxiv.org/abs/1203.3535)
+- **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** (2015, WWW) Ali Elkahk [[pdf]](https://dl.acm.org/citation.cfm?id=2741667)
 
 ## Information Retrieval
 
