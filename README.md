@@ -297,7 +297,7 @@ Science direct automatically gives you link to the references
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
 - **Deep Learning Review** (2015, Nature), Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
 - **Deep Learning in Neural Networks: An Overview** (2015), Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
-- ** On the Origin of Deep Learning ** (2017), Haohan Wang [[pdf]] (https://arxiv.org/pdf/1702.07800.pdf)
+- ** On the Origin of Deep Learning ** (2017), Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
 
 ## Recommendation Systems
 - **Hybrid Recommender Systems: Survey and Experiments** (2002), Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
@@ -308,7 +308,7 @@ Science direct automatically gives you link to the references
 - **Towards Bayesian Deep Learning: A Survey** (2016), Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
 
 ## Reinforcement Learning
-- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]] (https://arxiv.org/pdf/1701.07274.pdf)
+- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
 - **A Brief Survey of Deep Reinforcement Learning** (2016), Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
 - **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016), Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
 - **Reinforcement Learning in Robotics: A Survey** (2013), Jens Kober et al. [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364913495721)
@@ -423,21 +423,21 @@ Science direct automatically gives you link to the references
 - ** A Neural Probabilistic Language Model** (2003) Yoshua Bengio [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - ** Reducing the dimensionality of data with Neural Networks** (2006) Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
 - **Recurrent neural network based language model** (2010) Mikolov [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
-- **Joint Language and Translation Modelling with Recurrent Neural Networks** (2013) Auli (https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EMNLP2013RNNMT.pdf)
-- **Recurrent Continuous Translation Models** (2013) Klachbrenner (http://www.aclweb.org/anthology/D13-1176)
+- **Joint Language and Translation Modelling with Recurrent Neural Networks** (2013) Auli [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EMNLP2013RNNMT.pdf)
+- **Recurrent Continuous Translation Models** (2013) Klachbrenner [[pdf]](http://www.aclweb.org/anthology/D13-1176)
 - **Learning Phrase Representations using RNN Encoder–Decoder
-for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arxiv.org/pdf/1406.1078.pdf)
+for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxiv.org/pdf/1406.1078.pdf)
 
 #### Long Short Term Memory
-- ** LONG SHORT-TERM MEMORY ** (1991), Sepp Hochreiter [[pdf]] (http://www.bioinf.jku.at/publications/older/2604.pdf)
-- ** Learning to Forget:Continual Prediction with LSTM ** (1999), Felix et. al [[pdf]] (http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
-- ** LSTM: A Search Space Odyssey ** (2015), Klaus Greff (https://arxiv.org/abs/1503.04069)
+- ** LONG SHORT-TERM MEMORY ** (1991), Sepp Hochreiter [[pdf]](http://www.bioinf.jku.at/publications/older/2604.pdf)
+- ** Learning to Forget:Continual Prediction with LSTM ** (1999), Felix et. al [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
+- ** LSTM: A Search Space Odyssey ** (2015), Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
 
 #### Bi-directional Recurrent Neural Network
-- ** Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
+- ** Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
 
 #### Sequence to Sequence
-- ** Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever (https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- ** Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 #### Attention Models
 - **Recurrent Models of Visual Attention** (2014) Mnih [[pdf]](https://arxiv.org/abs/1406.6247)
@@ -449,8 +449,8 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 ## Gaussian Processes
 
 ### Variational Inference
-- **A Mean Field Theory Learning Algorithm for Neural Networks** (1987), Carsten Peterson [[pdf]] (http://www.complex-systems.com/pdf/01-5-6.pdf)
-- **Keeping the neural networks simple by minimizing the description length of the weights** (1993), Hinton [[pdf]] (https://dl.acm.org/citation.cfm?id=168306)
+- **A Mean Field Theory Learning Algorithm for Neural Networks** (1987), Carsten Peterson [[pdf]](http://www.complex-systems.com/pdf/01-5-6.pdf)
+- **Keeping the neural networks simple by minimizing the description length of the weights** (1993), Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
 - **Variational Learning and Bits-Back Coding: An Information-Theoretic View to Bayesian Learning** (2004), Antti Honkela [[pdf]](http://www.cis.hut.fi/cis/projects/bayes/papers/files/Honkela04TNN.pdf)
 - **An Introduction to Variational Methods for Graphical Models** (1999), Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
