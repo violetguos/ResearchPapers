@@ -581,6 +581,18 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxi
 - **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data** (2013, CIKM) Po-Sen Huang [[pdf]](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/)
 
 ### Evaluation Metrics
+#### F-Measure
+- **Maximum expected F-measure training of logistic regression models** (2005, HLT) [[pdf]](https://dl.acm.org/citation.cfm?id=1220662)
+- **Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization** (2013, PMLR) [[pdf]](http://proceedings.mlr.press/v28/dembczynski13.html)
+- **Thresholding Classifiers to Maximize F1 Score** (2014) Zachary Chase Lipton [[pdf]](https://arxiv.org/abs/1402.1892)
+#### Receiver Operator Characteristic
+- **The Relationship Between Precision-Recall and ROC Curves** (2006, ICML) [[pdf]](https://dl.acm.org/citation.cfm?id=1143874)
+
+#### Normalized Discounted Cumulative Gain
+- **A Theoretical Analysis of NDCG Type Ranking Measures** (2013, COLT) Yining Wang [[pdf]](https://arxiv.org/abs/1304.6480)
+
+#### Maximal Marginal Relevance
+- **Learning Maximal Marginal Relevance Model via Directly Optimizing Diversity Evaluation Measures** (2015, SIGIR) Long Xia [[pdf]](https://dl.acm.org/citation.cfm?id=2767710)
 
 ## Computer Vision
 
