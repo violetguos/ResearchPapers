@@ -294,7 +294,10 @@ Papers for myself to read
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
 
 ## Recommendation Systems
-- **Deep Learning based Recommender System: A Survey and New Perspectives** (2016), SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
+- **Hybrid Recommender Systems: Survey and Experiments** (2002), Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
+- **A survey of collaborative filtering techniques** (2009), Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
+- **Deep Learning Based Recommendation: A Survey** (2017), Juntao [[pdf]](https://link.springer.com/chapter/10.1007/978-981-10-4154-9_52)
+- **Deep Learning based Recommender System: A Survey and New Perspectives** (2017), SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
 
 - **Towards Bayesian Deep Learning: A Survey** (2016), Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
 
@@ -369,6 +372,7 @@ Papers for myself to read
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993), Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
 - **. Reducing the dimensionality of data with neural networks** (2006), Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
+
 #### Denoising AutoEncoders
 - **Extracting and composing robust features with denoising autoencoders** (2008), Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010), Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
@@ -386,6 +390,10 @@ Papers for myself to read
 
 ### Deep Boltzmann Machines
 - **Deep Boltzmann Machines** (2009) Ruslan Salakhutdinov [[pdf]](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
+
+### Neural Autoregressive Distribution Estimation
+- **The Neural Autoregressive Distribution Estimator** (2011, JMLR) Hugo Larochelle [[pdf]](http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf)
+- **Neural Autoregressive Distribution Estimation** (2016, JMLR) Benigno [[pdf]](https://arxiv.org/abs/1605.02226)
 
 ### Fully-Connected Neural Networks
 
@@ -425,8 +433,6 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 #### Attention Models
 - **Recurrent Models of Visual Attention** (2014) Mnih [[pdf]](https://arxiv.org/abs/1406.6247)
 - **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** (2015) Dzmitry [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
-
-
 
 ### Generative Adversarial Networks
 
@@ -531,6 +537,10 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** (2015, WWW) Ali Elkahk [[pdf]](https://dl.acm.org/citation.cfm?id=2741667)
 
 ## Information Retrieval
+
+### Models
+- **Semantic Hashing** (2007, SIGIR) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1558446)
+- **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data** (2013, CIKM) Po-Sen Huang [[pdf]](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/)
 
 ### Evaluation Metrics
 
