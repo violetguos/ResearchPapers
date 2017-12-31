@@ -290,7 +290,7 @@ Papers for myself to read
 
 ## Deep Learning
 - **Representation Learning: A Review and New Perspectives** (2012), Yoshua Bengio [[pdf]](https://arxiv.org/abs/1206.5538)
-- **Deep Learning: Method and Applications** (2014), Li Deng [[pdf]](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiq6ZbJo7TYAhVrzoMKHbjUCOYQFgg4MAE&url=http%3A%2F%2Fnowpublishers.com%2Farticle%2FDownloadSummary%2FSIG-039&usg=AOvVaw2MBk-ZXak7_ACbE5KRlyhD)
+- **Deep Learning: Method and Applications** (2014), Li Deng [[pdf]](https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/)
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
 - **Deep Learning Review** (2015, Nature), Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
 - **Deep Learning in Neural Networks: An Overview** (2015), Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
