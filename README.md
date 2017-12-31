@@ -289,9 +289,12 @@ Papers for myself to read
 # Surveys 
 
 ## Deep Learning
-- ** On the Origin of Deep Learning ** (2017), Haohan Wang [[pdf]] (https://arxiv.org/pdf/1702.07800.pdf)
-
+- **Representation Learning: A Review and New Perspectives** (2012), Yoshua Bengio [[pdf]](https://arxiv.org/abs/1206.5538)
+- **Deep Learning: Method and Applications** (2014), Li Deng [[pdf]](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiq6ZbJo7TYAhVrzoMKHbjUCOYQFgg4MAE&url=http%3A%2F%2Fnowpublishers.com%2Farticle%2FDownloadSummary%2FSIG-039&usg=AOvVaw2MBk-ZXak7_ACbE5KRlyhD)
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
+- **Deep Learning Review** (2015, Nature), Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
+- **Deep Learning in Neural Networks: An Overview** (2015), Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
+- ** On the Origin of Deep Learning ** (2017), Haohan Wang [[pdf]] (https://arxiv.org/pdf/1702.07800.pdf)
 
 ## Recommendation Systems
 - **Hybrid Recommender Systems: Survey and Experiments** (2002), Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
@@ -435,6 +438,7 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 - **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** (2015) Dzmitry [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
 
 ### Generative Adversarial Networks
+- **Generative Adversarial Networks** (2014, NIPS) Ian GoodFellow [[pdf]](https://arxiv.org/abs/1406.2661)
 
 ## Gaussian Processes
 
