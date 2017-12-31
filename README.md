@@ -486,12 +486,49 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 
 ## Recommendation Systems
 
-### Collaborative Deep Learning
+### Linear
+- **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI), Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
+- **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI), Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158)
 
-### User Item Representation
+### Social Collaborative Filtering
+- **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
+- **Social affinity filtering: recommendation through fine-grained analysis of user interactions and activities** (2013, COSN) Suvash Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=2512947)
+- **Social collaborative filtering for cold-start recommendations** (2014, RecSys) [[pdf]](https://dl.acm.org/citation.cfm?id=2645772)
+
+### Matrix Factorization
+- **Matchbox: Large Scale Bayesian Recommendations** (2009), David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
+
+### Deep Neural Networks
+- **Deep Neural Networks for YouTube Recommendations** (2016, RecSys), Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
+- **Wide & Deep Learning for Recommender Systems** (2016, RecSys), Cheng [[pdf]](https://arxiv.org/abs/1606.07792)
+
+### Collaborative Auto Encoder
+- **AutoRec: Autoencoders Meet Collaborative Filtering** (2015, WWW), Sedhain [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
+
+### Collaborative Restricted Boltzmann Machines
+- **Restricted Boltzmann machines for collaborative filtering** (2007, ICML), Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
+
+### Autoregressive Networks
+- **(CF-NADE) A Neural Autoregressive Approach to Collaborative Filtering** (2016, ICML), Yin Zheng [[pdf]](https://arxiv.org/abs/1605.09477)
+
+### Collaborative Deep Learning
+- **Collaborative Deep Learning for Recommender Systems** (2015, KDD), Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
+
+### Something To Vec
+- **(prod2vec) E-commerce in Your Inbox: Product Recommendations at ScaleA** (2015, KDD), Mihajlo [[pdf]](https://dl.acm.org/citation.cfm?id=2788627)
+- **Meta-Prod2Vec: Product Embeddings Using Side-Information for Recommendation** (2016, RecSys), Flavian [[pdf]](https://dl.acm.org/citation.cfm?id=2959160)
+- **Item2Vec: Neural Item Embedding for Collaborative Filtering** (2016), Oren [[pdf]](https://arxiv.org/abs/1603.04259)
+- **node2vec: Scalable Feature Learning for Networks** (2016, KDD), Aditya [[pdf]](https://snap.stanford.edu/node2vec/)
 
 ### Session Based Recommendation
+- 
 
+### Multi-domain Learning
+- 
+
+## Information Retrieval
+
+### Evaluation Metrics
 
 ## Computer Vision
 
