@@ -297,7 +297,7 @@ Science direct automatically gives you link to the references
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/pdf/1502.05767v3.pdf)
 - **Deep Learning Review** (2015, Nature), Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
 - **Deep Learning in Neural Networks: An Overview** (2015), Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
-- ** On the Origin of Deep Learning ** (2017), Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
+- **On the Origin of Deep Learning** (2017), Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
 
 ## Recommendation Systems
 - **Hybrid Recommender Systems: Survey and Experiments** (2002), Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
