@@ -147,8 +147,10 @@ Papers for myself to read
 - [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2016](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
 - [CMU 10715 Advanced Introduction to Machine Learning by Alexander Smola Fall 2015](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
-- [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
 - [MIT 9.520 Statistical Learning Theory and Applications by Lorenso Rosasco Fall 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O) 
+
+## Bayesian Learning
+- [University of Notre Dame by Nicholas Zabaras](https://www.zabaras.com/statisticalcomputing)
 
 ## Dynamic Programming
 - [Dynamic Programming By Bertsekas](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) 
