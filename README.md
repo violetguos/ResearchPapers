@@ -486,6 +486,13 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 
 ## Recommendation Systems
 
+### Collaborative Deep Learning
+
+### User Item Representation
+
+### Session Based Recommendation
+
+
 ## Computer Vision
 
 ### Object Detection
@@ -518,3 +525,5 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 
 
 ## Self-Driving Cars
+
+#include "SocialPsychology.md"
