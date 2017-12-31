@@ -128,6 +128,7 @@ Papers for myself to read
 ## Recommender Systems
 - [Craig Boutilier](http://www.cs.toronto.edu/~cebly/)
 - [Balazs Hidasi](http://www.hidasi.eu/en/index.html)
+- [Hao Wang](http://www.wanghao.in/index.html)
 - [Scott Sanner](http://d3m.mie.utoronto.ca/)
 
 ## Robotics
