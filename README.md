@@ -14,6 +14,7 @@ Science direct automatically gives you link to the references
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Recurrent Neural Network](https://github.com/kjw0612/awesome-rnn)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+- [Autonomous Driving](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 - [Math](https://github.com/rossant/awesome-math)
 - [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning)
 - [Random Forest](https://github.com/kjw0612/awesome-random-forest)
