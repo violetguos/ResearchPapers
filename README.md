@@ -526,4 +526,3 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]] (https://arx
 
 ## Self-Driving Cars
 
-#include "SocialPsychology.md"
