@@ -299,12 +299,20 @@ Science direct automatically gives you link to the references
 - **On the Origin of Deep Learning** (2017), Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
 
 ## Recommendation Systems
-- **Hybrid Recommender Systems: Survey and Experiments** (2002), Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
+### Collaborative Filtering
 - **A survey of collaborative filtering techniques** (2009), Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
+### Hybrid 
+- **Hybrid Recommender Systems: Survey and Experiments** (2002), Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
+### Deep Learning
 - **Deep Learning Based Recommendation: A Survey** (2017), Juntao [[pdf]](https://link.springer.com/chapter/10.1007/978-981-10-4154-9_52)
 - **Deep Learning based Recommender System: A Survey and New Perspectives** (2017), SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
 
 - **Towards Bayesian Deep Learning: A Survey** (2016), Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
+### Point of Interest Recommendation
+- **Point-of-Interest Recommendation in Location Based Social Networks with Topic and Location Awareness** (2013, SIAM), Bin Liu [[pdf]](http://epubs.siam.org/doi/abs/10.1137/1.9781611972832.44)
+- **Recommendations in Location-based Social Networks: A Survey** (2014), Jie Bao [[pdf]](https://link.springer.com/article/10.1007/s10707-014-0220-8)
+- **A Survey of Point-of-Interest Recommendation in Location-Based Social Networks** (2015, AAAI), Yonghong Yu [[pdf]](https://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/viewFile/10132/10253)
+- **A Survey of Point-of-interest Recommendation in Location-based Social Networks** (2016), Shengling Zhao [[pdf]](https://arxiv.org/abs/1607.00647)
 
 ## Reinforcement Learning
 - **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
