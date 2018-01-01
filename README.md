@@ -815,6 +815,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin** (2015) Baidu Research [[pdf]](https://arxiv.org/pdf/1512.02595.pdf)
 - **ACHIEVING HUMAN PARITY IN CONVERSATIONAL SPEECH RECOGNITION** (2016) W Xiong [[pdf]](https://arxiv.org/pdf/1610.05256v1.pdf)
 
+### Machine Translation
 
 ## Self-Driving Cars
 
