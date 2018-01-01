@@ -794,7 +794,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Recurrent Convolutional Neural Networks for Scene Labeling** (2014, PMLR), Pedro Pinheiro [[pdf]](http://proceedings.mlr.press/v32/pinheiro14.html)
 
 ### Image Description Generation
-- **Deep Visual-Semantic Alignments for Generating Image Descriptions** (2015, CVPR), Andrej Karpathy [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
+- **Multimodal Neural Language Models** (2014, PMLR) Ryan Kiros [[pdf]](http://proceedings.mlr.press/v32/kiros14.html)
+- **Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models** (2014, NIPS) Ryan Kiros [[pdf]](https://arxiv.org/abs/1411.2539)
+- **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention** (2015) Kelvin Xu [[pdf]](https://arxiv.org/abs/1502.03044)
+- **Deep Visual-Semantic Alignments for Generating Image Descriptions** (2015, CVPR) Andrej Karpathy [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
 
 ### Fine Art
 - **A Neural Algorithm of Artistic Style** (2015), Leon A. Gatys [[pdf]](https://arxiv.org/abs/1508.06576)
