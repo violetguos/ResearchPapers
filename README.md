@@ -628,8 +628,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Attention Models
 - **Recurrent Models of Visual Attention** (2014) Mnih [[pdf]](https://arxiv.org/abs/1406.6247)
-- **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** (2015) Dzmitry [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
-
+- **Neural Machine Translation By Jointly Learning To Align And Translate** (2015) Dzmitry [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
+- **Multiple Object Recognition with Visual Attention** (2015, ICLR) Jimmy Ba [[pdf]](https://arxiv.org/abs/1412.7755) 
 ### Generative Adversarial Networks
 - **Generative Adversarial Networks** (2014, NIPS) Ian GoodFellow [[pdf]](https://arxiv.org/abs/1406.2661)
 
@@ -796,7 +796,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Image Description Generation
 - **Multimodal Neural Language Models** (2014, PMLR) Ryan Kiros [[pdf]](http://proceedings.mlr.press/v32/kiros14.html)
 - **Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models** (2014, NIPS) Ryan Kiros [[pdf]](https://arxiv.org/abs/1411.2539)
-- **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention** (2015) Kelvin Xu [[pdf]](https://arxiv.org/abs/1502.03044)
+- **Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)** (2015, ICLR) Junhua Mao [[pdf]](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
+- **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention** (2015, PMLR) Kelvin Xu [[pdf]](https://arxiv.org/abs/1502.03044)
 - **Deep Visual-Semantic Alignments for Generating Image Descriptions** (2015, CVPR) Andrej Karpathy [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
 
 ### Fine Art
