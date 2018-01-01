@@ -301,6 +301,9 @@ Science direct automatically gives you link to the references
 - **Deep Learning in Neural Networks: An Overview** (2015), Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
 - **On the Origin of Deep Learning** (2017), Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
 
+### Recurrent Neural Networks
+- **A Critical Review of Recurrent Neural Networks for Sequence Learning** Zachary Lipton [[pdf]](https://arxiv.org/abs/1506.00019)
+
 ## Recommendation Systems
 ### Collaborative Filtering
 - **A survey of collaborative filtering techniques** (2009), Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
@@ -340,6 +343,8 @@ Science direct automatically gives you link to the references
 - **Survey on the attention based RNN model and its applications in computer vision** (2016), Feng Wang et al. [[pdf]](https://arxiv.org/pdf/1601.06823v1.pdf)
 
 - **Salient Object Detection: A Survey** (2014), Ali et al. [[pdf]](https://arxiv.org/pdf/1411.5878v4.pdf)
+
+- **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures** (2016), Rafaella Bernardi [[pdf]](https://arxiv.org/abs/1601.03896)
 
 ## Natural Language Processing
 - **Neural Machine Translation and Sequence-to-sequence Models: A Tutorial** (2017), Graham [[pdf]](https://arxiv.org/pdf/1703.01619v1.pdf)
@@ -446,10 +451,10 @@ Science direct automatically gives you link to the references
 - **A Neural Probabilistic Language Model** (2003) Yoshua Bengio [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - **Reducing the dimensionality of data with Neural Networks** (2006) Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
 - **Recurrent neural network based language model** (2010) Mikolov [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
+- **On the difficulty of training recurrent neural networks** (2012) Pascanu [[pdf]](https://arxiv.org/abs/1211.5063)
 - **Joint Language and Translation Modelling with Recurrent Neural Networks** (2013) Auli [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EMNLP2013RNNMT.pdf)
 - **Recurrent Continuous Translation Models** (2013) Klachbrenner [[pdf]](http://www.aclweb.org/anthology/D13-1176)
-- **Learning Phrase Representations using RNN Encoder–Decoder
-for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxiv.org/pdf/1406.1078.pdf)
+- **Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxiv.org/pdf/1406.1078.pdf)
 
 #### Long Short Term Memory
 - **LONG SHORT-TERM MEMORY** (1991), Sepp Hochreiter [[pdf]](http://www.bioinf.jku.at/publications/older/2604.pdf)
@@ -462,7 +467,8 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxi
 - **Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
 
 #### Sequence to Sequence
-- **Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- **Sequence to Sequence Learning with Neural Networks** (2014) Sutskever [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- **Sequence to Sequence - Video to Text** (2015, ICCV) Subhashini [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Venugopalan_Sequence_to_Sequence_ICCV_2015_paper.html)
 
 #### Attention Models
 - **Recurrent Models of Visual Attention** (2014) Mnih [[pdf]](https://arxiv.org/abs/1406.6247)
@@ -628,6 +634,12 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxi
 
 ### Image Segmentation
 
+### Scene Labelling
+- **Recurrent Convolutional Neural Networks for Scene Labeling** (2014, PMLR), Pedro Pinheiro [[pdf]](http://proceedings.mlr.press/v32/pinheiro14.html)
+
+### Image Description Generation
+- **Deep Visual-Semantic Alignments for Generating Image Descriptions** (2015, CVPR), Andrej Karpathy [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
+
 ### Fine Art
 - **A Neural Algorithm of Artistic Style** (2015), Leon A. Gatys [[pdf]](https://arxiv.org/abs/1508.06576)
 
@@ -637,7 +649,9 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxi
 - **Distributed Representations of Words and Phrases and their Compositionality** (2013, NIPS) Tomas Mikolov [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality)
 - **Efficient Estimation of Word Representations in Vector Space** (2013) Tomas Mikolov [[pdf]](Efficient Estimation of Word Representations in Vector Space)
 - **word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method** (2014) Yoav Goldberg [[pdf]](https://arxiv.org/abs/1402.3722)
+- **word2vec Parameter Learning Explained** (2014) Xin Rong [[pdf]](https://arxiv.org/abs/1411.2738)
 - **GloVe: Global Vectors for Word Representation** (2014) Jeffrey Pennington [[pdf]](https://nlp.stanford.edu/projects/glove/)
+- **Enriching Word Vectors with Subword Information** (2016) Piotr Bojanowski [[pdf]](https://arxiv.org/abs/1607.04606)
 
 ### Question Answering
 
