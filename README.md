@@ -616,6 +616,10 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxi
 ## Natural Language Processing
 
 ### Word Representation 
+- **Distributed Representations of Words and Phrases and their Compositionality** (2013, NIPS) Tomas Mikolov [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality)
+- **Efficient Estimation of Word Representations in Vector Space** (2013) Tomas Mikolov [[pdf]](Efficient Estimation of Word Representations in Vector Space)
+- **word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method** (2014) Yoav Goldberg [[pdf]](https://arxiv.org/abs/1402.3722)
+- **GloVe: Global Vectors for Word Representation** (2014) Jeffrey Pennington [[pdf]](https://nlp.stanford.edu/projects/glove/)
 
 ### Question Answering
 
