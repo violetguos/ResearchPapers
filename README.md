@@ -422,7 +422,7 @@ Science direct automatically gives you link to the references
 ### Convolutional Neural Networks
 - **Gradient-Based Learning Applied To Document Recognition** (1998) LeCun [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 - **A Guide to Convolutional Arithmetic For Deep Learning** (2016) Vincent [[pdf]](https://arxiv.org/abs/1603.07285)
-- ** ImageNet Classification With Deep Convolutional Neural Networks** (2012) Alex [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- **ImageNet Classification With Deep Convolutional Neural Networks** (2012) Alex [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - **Visualizing and Understanding Convolutional Neural Networks** (2013) Matthew Zeiler [[pdf]](https://arxiv.org/abs/1311.2901)
 - **Very Deep Convolutional Networks for Large Scale Image Recognition** (2014) Karen [[pdf]](https://arxiv.org/abs/1409.1556) 
 - **Going Deeper with Convolutions** (2014) Christian Szegedy [[pdf]](https://arxiv.org/abs/1409.4842)
@@ -442,15 +442,15 @@ Science direct automatically gives you link to the references
 for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxiv.org/pdf/1406.1078.pdf)
 
 #### Long Short Term Memory
-- ** LONG SHORT-TERM MEMORY ** (1991), Sepp Hochreiter [[pdf]](http://www.bioinf.jku.at/publications/older/2604.pdf)
-- ** Learning to Forget:Continual Prediction with LSTM ** (1999), Felix et. al [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
-- ** LSTM: A Search Space Odyssey ** (2015), Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
+- **LONG SHORT-TERM MEMORY ** (1991), Sepp Hochreiter [[pdf]](http://www.bioinf.jku.at/publications/older/2604.pdf)
+- **Learning to Forget:Continual Prediction with LSTM ** (1999), Felix et. al [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
+- **LSTM: A Search Space Odyssey ** (2015), Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
 
 #### Bi-directional Recurrent Neural Network
-- ** Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
+- **Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
 
 #### Sequence to Sequence
-- ** Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- **Sequence to Sequence Learning with Neural Networks ** (2014) Sutskever [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 #### Attention Models
 - **Recurrent Models of Visual Attention** (2014) Mnih [[pdf]](https://arxiv.org/abs/1406.6247)
