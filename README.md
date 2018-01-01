@@ -647,7 +647,7 @@ Science direct automatically gives you link to the references
 
 ### Word Representation 
 - **Distributed Representations of Words and Phrases and their Compositionality** (2013, NIPS) Tomas Mikolov [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality)
-- **Efficient Estimation of Word Representations in Vector Space** (2013) Tomas Mikolov [[pdf]](Efficient Estimation of Word Representations in Vector Space)
+- **Efficient Estimation of Word Representations in Vector Space** (2013) Tomas Mikolov [[pdf]](https://arxiv.org/abs/1301.3781)
 - **word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method** (2014) Yoav Goldberg [[pdf]](https://arxiv.org/abs/1402.3722)
 - **word2vec Parameter Learning Explained** (2014) Xin Rong [[pdf]](https://arxiv.org/abs/1411.2738)
 - **GloVe: Global Vectors for Word Representation** (2014) Jeffrey Pennington [[pdf]](https://nlp.stanford.edu/projects/glove/)
