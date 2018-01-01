@@ -428,6 +428,7 @@ Science direct automatically gives you link to the references
 - **Going Deeper with Convolutions** (2014) Christian Szegedy [[pdf]](https://arxiv.org/abs/1409.4842)
 - **Fractional Max-Pooling** (2014) Benjamin Graham [[pdf]](https://arxiv.org/abs/1412.6071)
 - **Striving for Simplicity: The All Convolutional Net** (2015, ICLR) Jost Tobias [[pdf]](https://arxiv.org/abs/1412.6806)
+- **Spatial Transformer Networks** (2015, NIPS) Max Jaderberg [[pdf]](http://papers.nips.cc/paper/5854-spatial-transformer-networks)
 - **Deep Residual Learning For Image Recognition** (2015) Kaiming He [[pdf]](https://arxiv.org/abs/1512.03385)
 - **Highway Networks** (2015) Rupesh [[pdf]](https://arxiv.org/abs/1505.00387)
 - **Xception: Deep Learning with Depthwise Separable Convolutions** (2016) Francois Chollet [[pdf]](https://arxiv.org/abs/1610.02357)
