@@ -3,8 +3,10 @@ Papers for myself to read
 Science direct automatically gives you link to the references
 - [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0893608014002135)
 
+
 Table of Contents
 =================
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
    * [Blogs](#blogs)
    * [Existing Repos:](#existing-repos)
@@ -152,8 +154,6 @@ Table of Contents
          * [Question Answering](#question-answering)
          * [Speech Recognition](#speech-recognition)
       * [Self-Driving Cars](#self-driving-cars-2)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # Blogs 
 - [Deep Learning Reading List](http://deeplearning.net/reading-list/)
