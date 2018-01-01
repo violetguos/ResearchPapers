@@ -481,7 +481,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A tutorial survey of reinforcement learning** (1994), S Sathiya [[pdf]](https://link.springer.com/article/10.1007/BF02743935)
 
 ## Active Learning
-- **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](https://s3.amazonaws.com/academia.edu.documents/30743174/settles_active_learning.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508483373&Signature=kOqdWV%2BqxXu0vTNHb8sKzAdeE14%3D&response-content-disposition=inline%3B%20filename%3DActive_learning_literature_survey.pdf)
+- **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
 
 ## Optimization
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
