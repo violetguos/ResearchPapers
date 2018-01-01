@@ -426,12 +426,20 @@ Science direct automatically gives you link to the references
 - **Visualizing and Understanding Convolutional Neural Networks** (2013) Matthew Zeiler [[pdf]](https://arxiv.org/abs/1311.2901)
 - **Very Deep Convolutional Networks for Large Scale Image Recognition** (2014) Karen [[pdf]](https://arxiv.org/abs/1409.1556) 
 - **Going Deeper with Convolutions** (2014) Christian Szegedy [[pdf]](https://arxiv.org/abs/1409.4842)
+- **Fractional Max-Pooling** (2014) Benjamin Graham [[pdf]](https://arxiv.org/abs/1412.6071)
+- **Striving for Simplicity: The All Convolutional Net** (2015, ICLR) Jost Tobias [[pdf]](https://arxiv.org/abs/1412.6806)
 - **Deep Residual Learning For Image Recognition** (2015) Kaiming He [[pdf]](https://arxiv.org/abs/1512.03385)
 - **Highway Networks** (2015) Rupesh [[pdf]](https://arxiv.org/abs/1505.00387)
 - **Xception: Deep Learning with Depthwise Separable Convolutions** (2016) Francois Chollet [[pdf]](https://arxiv.org/abs/1610.02357)
 - **Densely Connected Convolutional Networks** (2016) Gao Huang [[pdf]](https://arxiv.org/abs/1608.06993)
 - **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size** (2016) Forrest [[pdf]](https://arxiv.org/abs/1602.07360)
 - **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning** (2017, AAAI) Christian Szegedy [[pdf]](https://arxiv.org/abs/1602.07261)
+
+#### Visualizing Convolutional Neural Networks
+- **Visualizing and Understanding Convolutional Neural Networks** (2013) Matthew Zeiler [[pdf]](https://arxiv.org/abs/1311.2901)
+- **Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps** (2014) Karen Simonyan [[pdf]](https://arxiv.org/abs/1312.6034)
+- **Understanding Neural Networks Through Deep Visualization** (2015, ICML) Jason Yosinski [[pdf]](https://arxiv.org/abs/1506.06579)
+- **Understanding Deep Image Representations by Inverting Them** (2015, CVPR) Aravindh [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html)
 
 ### Recurrent Neural Networks
 - **A Neural Probabilistic Language Model** (2003) Yoshua Bengio [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
@@ -461,6 +469,9 @@ for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxi
 
 ### Generative Adversarial Networks
 - **Generative Adversarial Networks** (2014, NIPS) Ian GoodFellow [[pdf]](https://arxiv.org/abs/1406.2661)
+
+#### Adversarial Attacks
+- **Explaining and Harnessing Adversarial Examples** (2014) Ian Goodfellow [[pdf]](https://arxiv.org/abs/1412.6572)
 
 ## Gaussian Processes
 
