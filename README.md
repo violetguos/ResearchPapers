@@ -3,7 +3,6 @@ Papers for myself to read
 Science direct automatically gives you link to the references
 - [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0893608014002135)
 
-=================
 Table of Contents
 =================
 
