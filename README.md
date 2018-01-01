@@ -615,6 +615,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Recurrent nets that time and count**A (2000, IEEE) F.A. Gers [[pdf]](http://ieeexplore.ieee.org/abstract/document/861302/)
 - **LSTM: A Search Space Odyssey ** (2015), Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
 
+#### Gated Recurrent Unit
+- **On the Properties of Neural Machine Translation: Encoder-Decoder Approaches** (2014) Kyunghyun Cho [[pdf]]
+- **Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling** (2014, NIPS) Junyoung Chung [[pdf]](https://arxiv.org/abs/1412.3555)
+
 #### Bi-directional Recurrent Neural Network
 - **Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
 
@@ -805,8 +809,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **GloVe: Global Vectors for Word Representation** (2014) Jeffrey Pennington [[pdf]](https://nlp.stanford.edu/projects/glove/)
 - **Enriching Word Vectors with Subword Information** (2016) Piotr Bojanowski [[pdf]](https://arxiv.org/abs/1607.04606)
 
+### Sentence Summarization
+
 ### Question Answering
 
+### Machine Translation
+
+## Signal Processing
 ### Speech Recognition
 - **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups** (2012) Hinton [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf)
 - **Speech Recognition with Deep Recurrent Neural Networks** (2013) Alex Graves [[pdf]](https://arxiv.org/abs/1303.5778)
@@ -815,7 +824,4 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin** (2015) Baidu Research [[pdf]](https://arxiv.org/pdf/1512.02595.pdf)
 - **ACHIEVING HUMAN PARITY IN CONVERSATIONAL SPEECH RECOGNITION** (2016) W Xiong [[pdf]](https://arxiv.org/pdf/1610.05256v1.pdf)
 
-### Machine Translation
-
 ## Self-Driving Cars
-
