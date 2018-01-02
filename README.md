@@ -367,6 +367,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [MIT Deep Learning For Self Driving Car Winter 2017](http://selfdrivingcars.mit.edu/)
 
 # Courses (Just notes, no videos)
+## Information Geometry
+- [University of Copenhagen Information Geometry In Learning and Optimization](http://image.diku.dk/MLLab/IG1.php)
 
 ## Statistical Learning Theory 
 - [MIT 9.520 Fall 2017](http://www.mit.edu/~9.520/fall17/) 
