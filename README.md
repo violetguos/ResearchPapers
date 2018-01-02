@@ -186,6 +186,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Shunichi Amari](https://scholar.google.ca/citations?user=cH2eTqAAAAAJ&hl=en)
 - [James Marten](http://www.cs.toronto.edu/~jmartens/research.html)
 
+## Statistics for ML
+- [John Duchi](https://stanford.edu/~jduchi/)
+
 ## Machine Learning
 - [Andrew Ng](http://www.andrewng.org/)
 
