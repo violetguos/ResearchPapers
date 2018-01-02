@@ -183,6 +183,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Optimization
 - [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
 - [Stephen Boyd](http://stanford.edu/~boyd/)
+- [Shunichi Amari](https://scholar.google.ca/citations?user=cH2eTqAAAAAJ&hl=en)
 - [James Marten](http://www.cs.toronto.edu/~jmartens/research.html)
 
 ## Machine Learning
