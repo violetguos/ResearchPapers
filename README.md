@@ -569,6 +569,26 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Extracting and composing robust features with denoising autoencoders** (2008), Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010), Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
 
+### Bayesian Neural Networks
+- **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
+- **Occam Razor** (2001) Carl Edward Ramussen [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf)
+- **A Practical Bayesian Framework for Backpropagation Networks** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf )
+- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](https://csc2541-f17.github.io/)
+
+#### Variational Inference Neural Networks
+- **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinto [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
+- **Practical Variational Inference for Neural Networks** (2011, NIPS) Alex Graves [[pdf]](http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
+- **Variational Dropout and the Local Reparameterization Trick** (2015, NIPS) Diederik Kingma [[pdf]](http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick)
+
+#### Uncertainty Neural networks
+- **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** (2016) Yarin gal [[pdf]](http://proceedings.mlr.press/v48/gal16.html)
+
+#### Monte Carlo Methods Neural Networks
+- **MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
+
+#### Bayesian Compression Deep Learning
+- **Bayesian Compression for Deep Learning** (2017, NIPS) Christos Louizos [[pdf]](https://arxiv.org/abs/1705.08665)
+
 ### Restricted Boltzman Machines
 - **Restricted Boltzmann Machines for Collaborative Filtering** (2007), Ruslan Salakhutdinov [[pdf]](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
 - **Classification using Discriminative Restricted Boltzmann Machines** (2008), Hugo Larochelle [[pdf]](http://machinelearning.org/archive/icml2008/papers/601.pdf)
