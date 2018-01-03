@@ -187,6 +187,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [James Marten](http://www.cs.toronto.edu/~jmartens/research.html)
 
 ## Statistics for ML
+- [Martin Wainwright](https://people.eecs.berkeley.edu/~wainwrig/#papers)
 - [John Duchi](https://stanford.edu/~jduchi/)
 
 ## Machine Learning
@@ -510,6 +511,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 <!--------------------------------------------------- PAPERS -------------------------------------------------->
 # Papers 
+
+## Optimization
+
+### Information Geometry
+- **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
+
 ## Deep Learning
 
 ### Training and Optimization
