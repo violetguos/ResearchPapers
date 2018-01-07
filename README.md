@@ -505,6 +505,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Active Learning
 - **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
 
+## Variational Inference
+- **Variational Inference: A Review for Statisticians** David M Blei [[pdf]](https://arxiv.org/abs/1601.00670)
+
 ## Optimization
 - **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
 
