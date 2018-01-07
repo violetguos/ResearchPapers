@@ -459,7 +459,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Nonlinear Multilayered Sequence Models by Ilya](http://www.cs.utoronto.ca/~ilya/MS_thesis/ms_body.pdf)
 
 ## Robotics
-- [DEEP LEARNING FOR ROBOTICS](https://www.cs.stanford.edu/people/asaxena/papers/ianlenz_phdthesis.pdf)
+- [DEEP LEARNING FOR ROBOTICS by Ian](https://www.cs.stanford.edu/people/asaxena/papers/ianlenz_phdthesis.pdf)
+
+## Recommender Systems
+- [Collaborative Filtering: A Machine Learning Perspective by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.4817&rep=rep1&type=pdf)
+- [Missing Data Problems in Machine Learning by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8408&rep=rep1&type=pdf)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
@@ -735,6 +739,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Applications
 
 ## Recommendation Systems
+
+### Missing Data 
+- **Collaborative Filtering and the Missing at Random Assumption** (2007, UAI) Marlin [[pdf]](https://arxiv.org/abs/1206.5267)
+- **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
+- **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
 
 ### Linear
 - **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI), Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
