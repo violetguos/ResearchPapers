@@ -505,6 +505,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Active Learning
 - **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
 
+## Markov Chain Monte Carlo
+- **An Introduction to MCMC for Machine Learning** (2003) Christophe [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.7133)
+
 ## Variational Inference
 - **Variational Inference: A Review for Statisticians** David M Blei [[pdf]](https://arxiv.org/abs/1601.00670)
 
