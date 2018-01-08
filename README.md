@@ -765,6 +765,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW), David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI), Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 
+#### One Class Matrix Factorization
+- **One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
+
 ### Deep Neural Networks
 - **Deep content-based music recommendation** (2013, NIPS), Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
 - **Deep Neural Networks for YouTube Recommendations** (2016, RecSys), Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
