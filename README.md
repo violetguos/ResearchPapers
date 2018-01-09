@@ -221,7 +221,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
 - [Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Courses](https://github.com/prakhar1989/awesome-courses)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 <!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
 # Journals
