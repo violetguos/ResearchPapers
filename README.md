@@ -205,24 +205,34 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Deep Learning Reading List](http://deeplearning.net/reading-list/)
 
 # Existing Repos:
+## Courses
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+- [Math Science Video Lectures](https://github.com/Developer-Y/math-science-video-lectures)
+## Deep Learning
 - [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Meta Learning](https://github.com/songrotek/Meta-Learning-Papers)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Recurrent Neural Network](https://github.com/kjw0612/awesome-rnn)
-- [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
-- [Robotics](https://github.com/Kiloreux/awesome-robotics)
-- [Autonomous Driving](https://github.com/takeitallsource/awesome-autonomous-vehicles)
-- [Math](https://github.com/rossant/awesome-math)
 - [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning)
-- [Random Forest](https://github.com/kjw0612/awesome-random-forest)
-- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
-- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+## Machine Learning
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+- [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+## Robotics
+- [Autonomous Driving](https://github.com/takeitallsource/awesome-autonomous-vehicles)
+- [Robotics](https://github.com/Kiloreux/awesome-robotics)
+## Computer Vision
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+## AI
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [Random Forest](https://github.com/kjw0612/awesome-random-forest)
+## Information Retrieval
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
+## Math
+- [Math](https://github.com/rossant/awesome-math)
+## Datasets
+- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
 <!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
 # Journals
 
