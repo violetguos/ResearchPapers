@@ -500,6 +500,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [All of David Blei Courses](http://www.cs.columbia.edu/~blei/courses.html)
 - [Foundations of Graphical Models by David Blei](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
+- [AM207 Working Video Lectures Link](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
 
 ## Deep Learning
 - [CUHK ELEG5040 Introduction to Deep Learning](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
