@@ -306,6 +306,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Databases
 - [CIKM](http://cikm2017.org/)
 
+## Human Computer Interaction
+- [SIGCHI](https://sigchi.org/)
 <!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
 
 # Researchers
