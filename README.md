@@ -942,6 +942,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Multi-domain Collaborative Filtering 
 - **Multi-Domain Collaborative Filtering** (2010, UAI) Yu Zhang [[pdf]](https://arxiv.org/abs/1203.3535)
 
+### Evaluation Metrics for Recommender Systems
+- **Empirical Analysis of Predictive Algorithms for Collaborative Filtering** (1998, UAI) John Breese [[pdf]](https://arxiv.org/abs/1301.7363)
+- **Evaluating collaborative filtering recommender systems** (2004, TOIS) Jonathan Herlocker [[pdf]](https://dl.acm.org/citation.cfm?id=963772)
+
 ### Applications
 #### Music Recommendation
 #### Image Recommendation
@@ -951,13 +955,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Quote Recommmendation
 #### Citation Recommendation
 
+
 ## Information Retrieval
 
 ### Models
 - **Semantic Hashing** (2007, SIGIR) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1558446)
 - **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data** (2013, CIKM) Po-Sen Huang [[pdf]](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/)
 
-### Evaluation Metrics
+### Evaluation Metrics for Information Retrieval 
 #### F-Measure
 - **Maximum expected F-measure training of logistic regression models** (2005, HLT) [[pdf]](https://dl.acm.org/citation.cfm?id=1220662)
 - **Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization** (2013, PMLR) [[pdf]](http://proceedings.mlr.press/v28/dembczynski13.html)
