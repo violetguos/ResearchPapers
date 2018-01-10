@@ -730,7 +730,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](https://csc2541-f17.github.io/)
 
 #### Variational Inference Neural Networks
-- **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinto [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
+- **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
 - **Practical Variational Inference for Neural Networks** (2011, NIPS) Alex Graves [[pdf]](http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
 - **Variational Dropout and the Local Reparameterization Trick** (2015, NIPS) Diederik Kingma [[pdf]](http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick)
 
