@@ -798,9 +798,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Long Short Term Memory
 - **LONG SHORT-TERM MEMORY** (1991), Sepp Hochreiter [[pdf]](http://www.bioinf.jku.at/publications/older/2604.pdf)
 - **Long Short-Term Memory** (1997), Sepp Hochreiter [[pdf]](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735)
-- **Learning to Forget:Continual Prediction with LSTM ** (1999), Felix et. al [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
+- **Learning to Forget:Continual Prediction with LSTM** (1999), Felix et. al [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
 - **Recurrent nets that time and count** (2000, IEEE) F.A. Gers [[pdf]](http://ieeexplore.ieee.org/abstract/document/861302/)
-- **LSTM: A Search Space Odyssey ** (2015), Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
+- **LSTM: A Search Space Odyssey** (2015), Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
 
 #### Gated Recurrent Unit
 - **On the Properties of Neural Machine Translation: Encoder-Decoder Approaches** (2014) Kyunghyun Cho [[pdf]]
