@@ -460,7 +460,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Bay Area Deep Learning School at CEMEX 2016](https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos)
 - [STA946 Deep Learning by Ali Ghodsi](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) 
 - [NYU Deep Learning by Yann Lecunn 2014](https://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
-- [Illinois Deep Learning and Recognition by Svetlana 2017](http://slazebni.cs.illinois.edu/spring17/)
+- [Illinois Topic Course: Deep Learning and Recognition by Svetlana 2017](http://slazebni.cs.illinois.edu/spring17/)
 
 ## Gaussian Process
 - [Gaussian Process Summer School 2017](https://www.youtube.com/playlist?list=PLpTp0l_CVmgwyAthrUmmdIFiunV1VvicM)
