@@ -216,6 +216,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Recurrent Neural Network](https://github.com/kjw0612/awesome-rnn)
 - [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning)
+- [Generative Adversarial Networks](https://github.com/nightrome/really-awesome-gan)
 ## Machine Learning
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
@@ -224,6 +225,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 ## Computer Vision
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+- [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 ## AI
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Random Forest](https://github.com/kjw0612/awesome-random-forest)
