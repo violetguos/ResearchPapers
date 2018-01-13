@@ -865,7 +865,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Policy Gradient
 - **Simple statistical gradient-following algorithms for connectionist reinforcement learning** (1992), Ronald Williams [[pdf]](https://link.springer.com/article/10.1007/BF00992696)
-- **Policy Gradient Methods for Reinforcement Learning With Function Approximation** (2000), Richard Sutton et al. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
+- **(REINFORCE) Policy Gradient Methods for Reinforcement Learning With Function Approximation** (2000), Richard Sutton et al. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
 - **A Natural Policy Gradient** (2001), Kakade et al. [[pdf]](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
 - **Approximately Approximate Optimal Reinforcement Learning** (2002), Sham Kakade [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004), Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
