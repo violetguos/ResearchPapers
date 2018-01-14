@@ -1,5 +1,8 @@
 Mathematics is anything to make myself better at math.
 
+Proper Rigorous Order:
+Set Theory -> Abstract Algebra -> Real Analysis 
+
 # Calculus
 
 ## Video Lectures
