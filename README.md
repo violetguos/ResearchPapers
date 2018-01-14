@@ -677,7 +677,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Optimization
 
 ### Expectation Maximization
-- [What is the expectation maximization algorithm] (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
+- **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
+- **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
 
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
