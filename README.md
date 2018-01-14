@@ -875,7 +875,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Trust Region Policy Optimization** (2017), Schulman et al. [[pdf]](https://arxiv.org/abs/1502.05477)
 
 ### Actor Critic 
-- **A Mathematical Analysis of Actor-Critic Architectures for Learning Optimal Controls Through Incremental Dynamic Programming*** (1990), Ronald Williams [[pdf]](http://www.leemon.com/papers/1990wb.pdf)
+- **A Mathematical Analysis of Actor-Critic Architectures for Learning Optimal Controls Through Incremental Dynamic Programming** (1990), Ronald Williams [[pdf]](http://www.leemon.com/papers/1990wb.pdf)
 
 ## Active Learning
 - **Information-Based Objective Functions for Active Data Selection** (1992), David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
