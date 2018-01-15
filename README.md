@@ -769,6 +769,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ##### Reversible Jump MCMC 
 - **Reversible jump Markov chain Monte Carlo computation and Bayesian model determination** (1995, Biometrika) Peter Green [[pdf]](https://academic.oup.com/biomet/article/82/4/711/252058)
 
+##### MCMC Hamiltonian Dynamics
+- **MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
+
 ### Bayesian Neural Networks
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
 - **Occam Razor** (2001) Carl Edward Ramussen [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf)
@@ -782,9 +785,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Uncertainty Neural networks
 - **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** (2016) Yarin gal [[pdf]](http://proceedings.mlr.press/v48/gal16.html)
-
-#### Monte Carlo Methods Neural Networks
-- **MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
 
 #### Bayesian Compression Deep Learning
 - **Bayesian Compression for Deep Learning** (2017, NIPS) Christos Louizos [[pdf]](https://arxiv.org/abs/1705.08665)
