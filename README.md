@@ -735,15 +735,20 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Extracting and composing robust features with denoising autoencoders** (2008), Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010), Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
 
+### Monte Carlo
+- **Stan Ulam, John Von Neumann and the Monte Carlo Method** (1987) Eckhard [[pdf]](http://www-star.st-and.ac.uk/~kw25/teaching/mcrt/MC_history_3.pdf)
+- **THE BEGINNING of the MONTE CARLO METHOD** (1987) Metropolis [[pdf]](http://library.lanl.gov/cgi-bin/getfile?00326866.pdf)
+
+#### Markov Chain Monte Carlo
+- **(Metropolis Hasting Monte Carlo) Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
+- **Probabilistic Inference Using Markov Chain Monte Carlo Methods** (1993) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.9055)
+- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
+
 ### Bayesian Neural Networks
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
 - **Occam Razor** (2001) Carl Edward Ramussen [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf)
 - **A Practical Bayesian Framework for Backpropagation Networks** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf )
-- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](https://csc2541-f17.github.io/)
-
-#### Markov Chain Monte Carlo
-##### Metropolis Hasting Monte Carlo
-- **Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
+- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
 
 #### Variational Inference Neural Networks
 - **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
