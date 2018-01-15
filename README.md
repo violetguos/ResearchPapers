@@ -678,6 +678,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Optimization
 
+### Stochastic Optimization
+- **A Stochastic Approximation Method** (1951) Herbert Robbins [[pdf]](https://projecteuclid.org/euclid.aoms/1177729586)
+
+### Distributed Optimization
+- **Bayesian Learning via Stochastic Gradient Langevin Dynamics** (2011, ICML) Max Welling [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
+
+
 ### Expectation Maximization
 - **Maximum Likelihood from Incomplete Data via the EM Algorithm** (1977) Dempster [[pdf]](http://web.mit.edu/6.435/www/Dempster77.pdf)
 - **The Calculation of Posterior Distributions by Data Augmentation** (1987) Martin Tanner [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
@@ -732,9 +739,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **An Introduction to Variational Methods for Graphical Models** (1999) Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 - **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
-
-### Distributed Optimization
-- **Bayesian Learning via Stochastic Gradient Langevin Dynamics** (2011, ICML) Max Welling [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
 
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
