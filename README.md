@@ -775,7 +775,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
 ## Probabilistic Graphical Models
-- **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models*  (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
+- **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
 
 ## Deep Learning
 
