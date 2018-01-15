@@ -760,8 +760,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
 
 ##### Monte Carlo Expectation Maximization
-- **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains
-** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
+- **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
 
 ##### Hybrid Monte Carlo
 - **(HMC) Hybrid Monte Carlo** (1987) Simon Duane [[pdf]](http://www.sciencedirect.com/science/article/pii/037026938791197X) 
