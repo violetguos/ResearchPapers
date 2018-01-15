@@ -684,6 +684,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Distributed Optimization
 - **Bayesian Learning via Stochastic Gradient Langevin Dynamics** (2011, ICML) Max Welling [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
 
+### Natural Gradient
+- **Differential Geometry of Curved Exponential Families-Curvatures and Information Loss** (1982) Shunichi Amari [[pdf]](https://projecteuclid.org/euclid.aos/1176345779)
+- **Natural Gradient Works Efficiently in Learning** (1998) Shunichi Amari [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.7280&rep=rep1&type=pdf)
+- **Online Model Selection Based on the Variational Bayes** (2001) Sato [[pdf]](https://www.mitpressjournals.org/doi/abs/10.1162/08997660175026505)
+- **Natural Conjugate Gradient in Variational Inference** (2008, NIPS) Honkela [[pdf]](https://www.hiit.fi/u/ahonkela/papers/Honkela07ICONIP.pdf)
 
 ### Expectation Maximization
 - **Maximum Likelihood from Incomplete Data via the EM Algorithm** (1977) Dempster [[pdf]](http://web.mit.edu/6.435/www/Dempster77.pdf)
