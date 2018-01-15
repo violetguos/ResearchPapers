@@ -900,7 +900,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Gaussian Processes
 
 ### Latent Dirichlet Allocation
-- **Latent Dirichlet Allocation** (2003), David Blei [[pdf]](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
+- **Latent Dirichlet Allocation** (2003) David Blei [[pdf]](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
+- **Probabilistic Topic Models** (2012) David Blei [[pdf]](https://dl.acm.org/citation.cfm?id=2133826)
 
 ### Bayesian Nonparametrics
 - **Hierarchical Bayesian Nonparametric Models with Applications** (2009), Yee Whye Teh [[pdf]](https://www.stats.ox.ac.uk/~teh/research/npbayes/TehJor2010a.pdf)
