@@ -738,6 +738,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Monte Carlo
 - **Stan Ulam, John Von Neumann and the Monte Carlo Method** (1987) Eckhard [[pdf]](http://www-star.st-and.ac.uk/~kw25/teaching/mcrt/MC_history_3.pdf)
 - **THE BEGINNING of the MONTE CARLO METHOD** (1987) Metropolis [[pdf]](http://library.lanl.gov/cgi-bin/getfile?00326866.pdf)
+- **Monte Carlo Statistical Methods** (1999-2010, Book) Robert [[pdf]](https://archive.org/details/springer_10.1007-978-1-4757-4145-2)
 
 #### Markov Chain Monte Carlo
 - **(Metropolis Hasting Monte Carlo) Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
