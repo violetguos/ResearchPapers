@@ -555,6 +555,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Books
 
 - [Active Learning by Burr Settles](http://www.morganclaypool.com/doi/pdf/10.2200/S00429ED1V01Y201207AIM018)
+- [Monte Carlo Statistical Methods by Christan Roberts](https://archive.org/details/springer_10.1007-978-1-4757-4145-2)
 
 # Tutorials/Conferences/Workshops
 <!--------------------------------------------------- THESIS -------------------------------------------------->
@@ -740,7 +741,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Monte Carlo
 - **Stan Ulam, John Von Neumann and the Monte Carlo Method** (1987) Eckhard [[pdf]](http://www-star.st-and.ac.uk/~kw25/teaching/mcrt/MC_history_3.pdf)
 - **THE BEGINNING of the MONTE CARLO METHOD** (1987) Metropolis [[pdf]](http://library.lanl.gov/cgi-bin/getfile?00326866.pdf)
-- **Monte Carlo Statistical Methods** (1999-2010, Book) Robert [[pdf]](https://archive.org/details/springer_10.1007-978-1-4757-4145-2)
 
 #### Markov Chain Monte Carlo
 
