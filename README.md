@@ -774,9 +774,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
-## Probabilistic Graphical Models
-- **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
-
 ## Deep Learning
 
 ### Training and Optimization
@@ -935,8 +932,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Bayesian Nonparametrics
 - **Hierarchical Bayesian Nonparametric Models with Applications** (2009), Yee Whye Teh [[pdf]](https://www.stats.ox.ac.uk/~teh/research/npbayes/TehJor2010a.pdf)
 
-## Probabilitistic Graphical Models
+## Probabilistic Graphical Models
+- **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
 - **Statistical inference with probabilistic graphical models** (2014), Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
+
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
