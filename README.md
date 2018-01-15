@@ -741,6 +741,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Monte Carlo Statistical Methods** (1999-2010, Book) Robert [[pdf]](https://archive.org/details/springer_10.1007-978-1-4757-4145-2)
 
 #### Markov Chain Monte Carlo
+- **Equation of State Calculations by Fast Computing Machines** (1953) Metropolis [[pdf]](http://aip.scitation.org/doi/abs/10.1063/1.1699114)
 - **(Metropolis Hasting Monte Carlo) Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
 - **Probabilistic Inference Using Markov Chain Monte Carlo Methods** (1993) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.9055)
 - **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
