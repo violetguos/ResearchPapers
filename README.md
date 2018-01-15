@@ -409,6 +409,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Variational Inference
 - [Matthew Hoffman](http://matthewdhoffman.com/) 
+- [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
@@ -683,6 +684,57 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
 - **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
 
+### Monte Carlo
+- **Stan Ulam, John Von Neumann and the Monte Carlo Method** (1987) Eckhard [[pdf]](http://www-star.st-and.ac.uk/~kw25/teaching/mcrt/MC_history_3.pdf)
+- **THE BEGINNING of the MONTE CARLO METHOD** (1987) Metropolis [[pdf]](http://library.lanl.gov/cgi-bin/getfile?00326866.pdf)
+
+#### Markov Chain Monte Carlo
+
+##### Metropolis Hasting Monte Carlo
+- **Equation of State Calculations by Fast Computing Machines** (1953) Metropolis [[pdf]](http://aip.scitation.org/doi/abs/10.1063/1.1699114)
+- **(Metropolis Hasting Monte Carlo) Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
+- **Probabilistic Inference Using Markov Chain Monte Carlo Methods** (1993) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.9055)
+- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
+
+##### Simulated Annealing
+- **Optimization by Simulated Annealing** (1983) Kirkpatrick [[pdf]](https://pdfs.semanticscholar.org/e893/4a942f06ee91940ab57732953ec6a24b3f00.pdf)
+
+##### Mixture and Cycle of MCMC Kernels
+- **Markov Chains for Exploring Posterior Distributions** (1994) Tierney [[pdf]](https://projecteuclid.org/euclid.aos/1176325750)
+
+##### Gibbs Sampler
+- **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
+
+##### Monte Carlo Expectation Maximization
+- **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
+
+##### Hybrid Monte Carlo
+- **(HMC) Hybrid Monte Carlo** (1987) Simon Duane [[pdf]](http://www.sciencedirect.com/science/article/pii/037026938791197X) 
+
+##### Reversible Jump MCMC 
+- **Reversible jump Markov chain Monte Carlo computation and Bayesian model determination** (1995, Biometrika) Peter Green [[pdf]](https://academic.oup.com/biomet/article/82/4/711/252058)
+
+##### MCMC Hamiltonian Dynamics
+- **MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
+
+### Variational Inference
+- **A Mean Field Theory Learning Algorithm for Neural Networks** (1987) Carsten Peterson [[pdf]](http://www.complex-systems.com/pdf/01-5-6.pdf)
+- **Keeping the neural networks simple by minimizing the description length of the weights** (1993), Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
+- **Bayesian Methods for Mixtures of Experts** (1995, NIPS) Waterhouse [[pdf]](https://papers.nips.cc/paper/1167-bayesian-methods-for-mixtures-of-experts)
+- **Exploiting Tractable Substructures in Intractable Networks** (1996, NIPS) Saul [[pdf]](https://papers.nips.cc/paper/1155-exploiting-tractable-substructures-in-intractable-networks.pdf)
+- **Mean Field Theory for Sigmoid Belief Networks** (1996, JAIR) Saul [[pdf]](https://arxiv.org/abs/cs/9603102)
+- **Computing upper and lower bounds on likelihoods in intractable networks** (1996, UAI) Tommi Jaakkola [[pdf]](https://dl.acm.org/citation.cfm?id=2074324)
+- **A variational approach to Bayesian logistic regression models and their extensions** (1996) Tommi Jaakkola [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.49.5049)
+- **Factorial Hidden Markov Models** (1997) Ghahramani [[pdf]](http://www.ee.columbia.edu/~sfchang/course/svia-F03/papers/factorial-HMM-97.pdf)
+- **Ensemble Learning for Hidden Markov Models** (1997) Mackay [[pdf]](http://www.inference.org.uk/mackay/ensemblePaper.pdf)
+- **Variational Learning and Bits-Back Coding: An Information-Theoretic View to Bayesian Learning** (2004), Antti Honkela [[pdf]](http://www.cis.hut.fi/cis/projects/bayes/papers/files/Honkela04TNN.pdf)
+- **An Introduction to Variational Methods for Graphical Models** (1999) Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
+- **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+- **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
+
+### Distributed Optimization
+- **Bayesian Learning via Stochastic Gradient Langevin Dynamics** (2011, ICML) Max Welling [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
+
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
@@ -737,39 +789,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Denoising AutoEncoders
 - **Extracting and composing robust features with denoising autoencoders** (2008), Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010), Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
-
-### Monte Carlo
-- **Stan Ulam, John Von Neumann and the Monte Carlo Method** (1987) Eckhard [[pdf]](http://www-star.st-and.ac.uk/~kw25/teaching/mcrt/MC_history_3.pdf)
-- **THE BEGINNING of the MONTE CARLO METHOD** (1987) Metropolis [[pdf]](http://library.lanl.gov/cgi-bin/getfile?00326866.pdf)
-
-#### Markov Chain Monte Carlo
-
-##### Metropolis Hasting Monte Carlo
-- **Equation of State Calculations by Fast Computing Machines** (1953) Metropolis [[pdf]](http://aip.scitation.org/doi/abs/10.1063/1.1699114)
-- **(Metropolis Hasting Monte Carlo) Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
-- **Probabilistic Inference Using Markov Chain Monte Carlo Methods** (1993) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.9055)
-- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
-
-##### Simulated Annealing
-- **Optimization by Simulated Annealing** (1983) Kirkpatrick [[pdf]](https://pdfs.semanticscholar.org/e893/4a942f06ee91940ab57732953ec6a24b3f00.pdf)
-
-##### Mixture and Cycle of MCMC Kernels
-- **Markov Chains for Exploring Posterior Distributions** (1994) Tierney [[pdf]](https://projecteuclid.org/euclid.aos/1176325750)
-
-##### Gibbs Sampler
-- **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
-
-##### Monte Carlo Expectation Maximization
-- **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
-
-##### Hybrid Monte Carlo
-- **(HMC) Hybrid Monte Carlo** (1987) Simon Duane [[pdf]](http://www.sciencedirect.com/science/article/pii/037026938791197X) 
-
-##### Reversible Jump MCMC 
-- **Reversible jump Markov chain Monte Carlo computation and Bayesian model determination** (1995, Biometrika) Peter Green [[pdf]](https://academic.oup.com/biomet/article/82/4/711/252058)
-
-##### MCMC Hamiltonian Dynamics
-- **MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
 
 ### Bayesian Neural Networks
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
@@ -869,13 +888,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Explaining and Harnessing Adversarial Examples** (2014) Ian Goodfellow [[pdf]](https://arxiv.org/abs/1412.6572)
 
 ## Gaussian Processes
-
-### Variational Inference
-- **A Mean Field Theory Learning Algorithm for Neural Networks** (1987), Carsten Peterson [[pdf]](http://www.complex-systems.com/pdf/01-5-6.pdf)
-- **Keeping the neural networks simple by minimizing the description length of the weights** (1993), Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
-- **Variational Learning and Bits-Back Coding: An Information-Theoretic View to Bayesian Learning** (2004), Antti Honkela [[pdf]](http://www.cis.hut.fi/cis/projects/bayes/papers/files/Honkela04TNN.pdf)
-- **An Introduction to Variational Methods for Graphical Models** (1999), Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
-- **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
 
 ### Latent Dirichlet Allocation
 - **Latent Dirichlet Allocation** (2003), David Blei [[pdf]](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
