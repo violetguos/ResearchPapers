@@ -677,6 +677,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Optimization
 
 ### Expectation Maximization
+- **Maximum Likelihood from Incomplete Data via the EM Algorithm** (1977) Dempster [[pdf]](http://web.mit.edu/6.435/www/Dempster77.pdf)
+- **The Calculation of Posterior Distributions by Data Augmentation** (1987) Martin Tanner [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
 - **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
 - **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
 
