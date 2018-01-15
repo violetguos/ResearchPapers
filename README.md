@@ -763,6 +763,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains
 ** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
 
+##### Hybrid Monte Carlo
+- **(HMC) Hybrid Monte Carlo** (1987) Simon Duane [[pdf]](http://www.sciencedirect.com/science/article/pii/037026938791197X) 
+
+##### Reversible Jump MCMC 
+- **Reversible jump Markov chain Monte Carlo computation and Bayesian model determination** (1995, Biometrika) Peter Green [[pdf]](https://academic.oup.com/biomet/article/82/4/711/252058)
+
 ### Bayesian Neural Networks
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
 - **Occam Razor** (2001) Carl Edward Ramussen [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf)
