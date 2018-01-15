@@ -704,6 +704,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ##### Gibbs Sampler
 - **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
+- **Sampling-Based Approaches to Calculating Marginal Densities** (1990) Alan Gelfand [[pdf]](http://wwwf.imperial.ac.uk/~das01/MyWeb/SCBI/Papers/GelfandSmith.pdf)
 
 ##### Monte Carlo Expectation Maximization
 - **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
