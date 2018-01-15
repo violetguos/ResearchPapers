@@ -741,10 +741,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Monte Carlo Statistical Methods** (1999-2010, Book) Robert [[pdf]](https://archive.org/details/springer_10.1007-978-1-4757-4145-2)
 
 #### Markov Chain Monte Carlo
+
+##### Metropolis Hasting Monte Carlo
 - **Equation of State Calculations by Fast Computing Machines** (1953) Metropolis [[pdf]](http://aip.scitation.org/doi/abs/10.1063/1.1699114)
 - **(Metropolis Hasting Monte Carlo) Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
 - **Probabilistic Inference Using Markov Chain Monte Carlo Methods** (1993) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.9055)
 - **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
+
+##### Simulated Annealing
+- **Optimization by Simulated Annealing** (1983) Kirkpatrick [[pdf]](https://pdfs.semanticscholar.org/e893/4a942f06ee91940ab57732953ec6a24b3f00.pdf)
+
+##### Mixture and Cycle of MCMC Kernels
+- **Markov Chains for Exploring Posterior Distributions** (1994) Tierney [[pdf]](https://projecteuclid.org/euclid.aos/1176325750)
+
+##### Gibbs Sampler
+- **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
 
 ### Bayesian Neural Networks
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
