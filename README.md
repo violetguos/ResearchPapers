@@ -741,6 +741,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Practical Bayesian Framework for Backpropagation Networks** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf )
 - **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](https://csc2541-f17.github.io/)
 
+#### Markov Chain Monte Carlo
+##### Metropolis Hasting Monte Carlo
+- **Monte Carlo Sampling Methods Using Markov Chains and Their Applications** (1970) W.K. Hastings [[pdf]](https://pdfs.semanticscholar.org/a430/cb602f7d47c21cc4fa94a351ec0c4a9f1fbd.pdf)
+
 #### Variational Inference Neural Networks
 - **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
 - **Practical Variational Inference for Neural Networks** (2011, NIPS) Alex Graves [[pdf]](http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
