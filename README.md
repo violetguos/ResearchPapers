@@ -607,6 +607,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Bayesian Methods for Adaptive Model by David Mackay](http://www.inference.org.uk/mackay/PhD.html)
 - [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
 - [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
+- [Advances in Markov Chain Monte Carlo methods by Iain Murray](http://homepages.inf.ed.ac.uk/imurray2/pub/07thesis/murray_thesis_2007.pdf)
 
 ## Reinforcement Learning
 - [Temporal Credit Assignment in Reinforcement Learning by Richard Sutton](https://search.proquest.com/docview/303321395)
