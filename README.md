@@ -246,6 +246,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Machine Learning Surveys](https://github.com/mlreview/machine-learning-surveys)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+- [Multi Agent Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers)
 ## Robotics
 - [Autonomous Driving](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
